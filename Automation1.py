@@ -1,21 +1,18 @@
+import  io
 import requests
 
-url = "https://coronavirus-tracker-india-covid-19.p.rapidapi.com/api/getStatewise"
-
-headers = {
-    'x-rapidapi-host': "coronavirus-tracker-india-covid-19.p.rapidapi.com",
-    'x-rapidapi-key': "7d18fd6581msh81a4886d454a322p1e64c5jsn2c784c87b0cf"
-    }
-
-response = requests.request("GET", url, headers=headers)
-
+response=requests.get("https://feeds.citibikenyc.com/stations/stations.json")
 data=response.json()
+#this will help you to understand the keys in the dictionary
+print(set(data))
+print(set(data["stationBeanList"][1]))
 
-for i in range(len(data)):
-    id=data[i]["id"]
-    name=data[i]["name"]
-    case=data[i]["cases"]
-    print(f"{id},{name},{case}")
-    
-    
-    
+with io.open("stationlist.csv","w",encoding="utf-8")as f1:
+    f1.write("ID"+","+"NAME"+","+"longitude"+"\n")
+    for  i  in  range ( len ( data [ "stationBeanList" ])):
+     id=data["stationBeanList"][i]["id"]
+     name=data["stationBeanList"][i]["stationName"]
+     longitude=data["stationBeanList"][i]["longitude"]
+     data_row=str(id)+","+name+","+str(longitude)+"\n"
+     f1.write(data_row)
+    f1.close()
