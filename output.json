@@ -1,0 +1,4867 @@
+{
+    "0": {
+        "ID": 72,
+        "NAME": "W 52 St & 11 Ave",
+        "longitude": -73.99392888
+    },
+    "1": {
+        "ID": 79,
+        "NAME": "Franklin St & W Broadway",
+        "longitude": -74.00666661
+    },
+    "2": {
+        "ID": 82,
+        "NAME": "St James Pl & Pearl St",
+        "longitude": -74.00016545
+    },
+    "3": {
+        "ID": 83,
+        "NAME": "Atlantic Ave & Fort Greene Pl",
+        "longitude": -73.97632328
+    },
+    "4": {
+        "ID": 116,
+        "NAME": "W 17 St & 8 Ave",
+        "longitude": -74.00149746
+    },
+    "5": {
+        "ID": 119,
+        "NAME": "Park Ave & St Edwards St",
+        "longitude": -73.97803415
+    },
+    "6": {
+        "ID": 120,
+        "NAME": "Lexington Ave & Classon Ave",
+        "longitude": -73.95928168
+    },
+    "7": {
+        "ID": 127,
+        "NAME": "Barrow St & Hudson St",
+        "longitude": -74.00674436
+    },
+    "8": {
+        "ID": 128,
+        "NAME": "MacDougal St & Prince St",
+        "longitude": -74.00297088
+    },
+    "9": {
+        "ID": 143,
+        "NAME": "Clinton St & Joralemon St",
+        "longitude": -73.99337909
+    },
+    "10": {
+        "ID": 144,
+        "NAME": "Nassau St & Navy St",
+        "longitude": -73.98068914
+    },
+    "11": {
+        "ID": 146,
+        "NAME": "Hudson St & Reade St",
+        "longitude": -74.0091059
+    },
+    "12": {
+        "ID": 150,
+        "NAME": "E 2 St & Avenue C",
+        "longitude": -73.98085795
+    },
+    "13": {
+        "ID": 151,
+        "NAME": "Cleveland Pl & Spring St",
+        "longitude": -73.99724900722505
+    },
+    "14": {
+        "ID": 157,
+        "NAME": "Henry St & Atlantic Ave",
+        "longitude": -73.99612349
+    },
+    "15": {
+        "ID": 161,
+        "NAME": "LaGuardia Pl & W 3 St",
+        "longitude": -73.99810231
+    },
+    "16": {
+        "ID": 164,
+        "NAME": "E 47 St & 2 Ave",
+        "longitude": -73.97032517
+    },
+    "17": {
+        "ID": 167,
+        "NAME": "E 39 St & 3 Ave",
+        "longitude": -73.97604882
+    },
+    "18": {
+        "ID": 168,
+        "NAME": "W 18 St & 6 Ave",
+        "longitude": -73.99456405
+    },
+    "19": {
+        "ID": 173,
+        "NAME": "Broadway & W 49 St",
+        "longitude": -73.98452728986742
+    },
+    "20": {
+        "ID": 174,
+        "NAME": "E 25 St & 1 Ave",
+        "longitude": -73.97738662
+    },
+    "21": {
+        "ID": 195,
+        "NAME": "Liberty St & Broadway",
+        "longitude": -74.01043382
+    },
+    "22": {
+        "ID": 212,
+        "NAME": "W 16 St & The High Line",
+        "longitude": -74.00681753
+    },
+    "23": {
+        "ID": 216,
+        "NAME": "Columbia Heights & Cranberry St",
+        "longitude": -73.99548059
+    },
+    "24": {
+        "ID": 217,
+        "NAME": "Old Fulton St",
+        "longitude": -73.99383605
+    },
+    "25": {
+        "ID": 223,
+        "NAME": "W 13 St & 7 Ave",
+        "longitude": -73.99994661
+    },
+    "26": {
+        "ID": 224,
+        "NAME": "Spruce St & Nassau St",
+        "longitude": -74.00552427
+    },
+    "27": {
+        "ID": 228,
+        "NAME": "E 48 St & 3 Ave",
+        "longitude": -73.971878855
+    },
+    "28": {
+        "ID": 229,
+        "NAME": "Great Jones St",
+        "longitude": -73.99379025
+    },
+    "29": {
+        "ID": 236,
+        "NAME": "St Marks Pl & 2 Ave",
+        "longitude": -73.98713956
+    },
+    "30": {
+        "ID": 237,
+        "NAME": "E 11 St & 2 Ave",
+        "longitude": -73.98672378
+    },
+    "31": {
+        "ID": 238,
+        "NAME": "Bank St & Washington St",
+        "longitude": -74.00859207
+    },
+    "32": {
+        "ID": 239,
+        "NAME": "Willoughby St & Fleet St",
+        "longitude": -73.9813018
+    },
+    "33": {
+        "ID": 241,
+        "NAME": "DeKalb Ave & S Portland Ave",
+        "longitude": -73.97493121
+    },
+    "34": {
+        "ID": 242,
+        "NAME": "Carlton Ave & Flushing Ave",
+        "longitude": -73.973736
+    },
+    "35": {
+        "ID": 244,
+        "NAME": "Willoughby Ave & Hall St",
+        "longitude": -73.96536851
+    },
+    "36": {
+        "ID": 245,
+        "NAME": "Myrtle Ave & St Edwards St",
+        "longitude": -73.97703874
+    },
+    "37": {
+        "ID": 247,
+        "NAME": "Perry St & Bleecker St",
+        "longitude": -74.00483091
+    },
+    "38": {
+        "ID": 248,
+        "NAME": "Laight St & Hudson St",
+        "longitude": -74.00771779
+    },
+    "39": {
+        "ID": 249,
+        "NAME": "Harrison St & Hudson St",
+        "longitude": -74.0090009
+    },
+    "40": {
+        "ID": 250,
+        "NAME": "Lafayette St & Jersey St",
+        "longitude": -73.99565293
+    },
+    "41": {
+        "ID": 251,
+        "NAME": "Mott St & Prince St",
+        "longitude": -73.99480012
+    },
+    "42": {
+        "ID": 252,
+        "NAME": "MacDougal St & Washington Sq",
+        "longitude": -73.99852205
+    },
+    "43": {
+        "ID": 254,
+        "NAME": "W 11 St & 6 Ave",
+        "longitude": -73.99800419
+    },
+    "44": {
+        "ID": 257,
+        "NAME": "Lispenard St & Broadway",
+        "longitude": -74.00247214
+    },
+    "45": {
+        "ID": 258,
+        "NAME": "DeKalb Ave & Vanderbilt Ave",
+        "longitude": -73.96885458
+    },
+    "46": {
+        "ID": 259,
+        "NAME": "South St & Whitehall St",
+        "longitude": -74.01234218
+    },
+    "47": {
+        "ID": 260,
+        "NAME": "Broad St & Bridge St",
+        "longitude": -74.01167797
+    },
+    "48": {
+        "ID": 261,
+        "NAME": "Johnson St & Gold St",
+        "longitude": -73.98362464
+    },
+    "49": {
+        "ID": 262,
+        "NAME": "Washington Park",
+        "longitude": -73.97372990000001
+    },
+    "50": {
+        "ID": 264,
+        "NAME": "Maiden Ln & Pearl St",
+        "longitude": -74.00731853
+    },
+    "51": {
+        "ID": 265,
+        "NAME": "Stanton St & Chrystie St",
+        "longitude": -73.99147535
+    },
+    "52": {
+        "ID": 267,
+        "NAME": "Broadway & W 36 St",
+        "longitude": -73.98765428
+    },
+    "53": {
+        "ID": 268,
+        "NAME": "Howard St & Centre St",
+        "longitude": -73.99973337
+    },
+    "54": {
+        "ID": 270,
+        "NAME": "Adelphi St & Myrtle Ave",
+        "longitude": -73.97178913
+    },
+    "55": {
+        "ID": 274,
+        "NAME": "Lafayette Ave & Fort Greene Pl",
+        "longitude": -73.976682
+    },
+    "56": {
+        "ID": 275,
+        "NAME": "Washington Ave & Greene Ave",
+        "longitude": -73.96563307
+    },
+    "57": {
+        "ID": 276,
+        "NAME": "Duane St & Greenwich St",
+        "longitude": -74.0104554
+    },
+    "58": {
+        "ID": 278,
+        "NAME": "Concord St & Bridge St",
+        "longitude": -73.98476437
+    },
+    "59": {
+        "ID": 280,
+        "NAME": "E 10 St & 5 Ave",
+        "longitude": -73.99510132
+    },
+    "60": {
+        "ID": 281,
+        "NAME": "Grand Army Plaza & Central Park S",
+        "longitude": -73.97371465
+    },
+    "61": {
+        "ID": 282,
+        "NAME": "Kent Ave & S 11 St",
+        "longitude": -73.96841526031494
+    },
+    "62": {
+        "ID": 284,
+        "NAME": "Greenwich Ave & 8 Ave",
+        "longitude": -74.0026376103
+    },
+    "63": {
+        "ID": 285,
+        "NAME": "Broadway & E 14 St",
+        "longitude": -73.99074142
+    },
+    "64": {
+        "ID": 289,
+        "NAME": "Monroe St & Classon Ave",
+        "longitude": -73.95881081
+    },
+    "65": {
+        "ID": 291,
+        "NAME": "Madison St & Montgomery St",
+        "longitude": -73.984844
+    },
+    "66": {
+        "ID": 293,
+        "NAME": "Lafayette St & E 8 St",
+        "longitude": -73.99102628231049
+    },
+    "67": {
+        "ID": 295,
+        "NAME": "Pike St & E Broadway",
+        "longitude": -73.99293911
+    },
+    "68": {
+        "ID": 297,
+        "NAME": "E 15 St & 3 Ave",
+        "longitude": -73.986923
+    },
+    "69": {
+        "ID": 298,
+        "NAME": "3 Ave & Schermerhorn St",
+        "longitude": -73.9796772
+    },
+    "70": {
+        "ID": 301,
+        "NAME": "E 2 St & Avenue B",
+        "longitude": -73.98368779
+    },
+    "71": {
+        "ID": 302,
+        "NAME": "Avenue D & E 3 St",
+        "longitude": -73.97793172
+    },
+    "72": {
+        "ID": 303,
+        "NAME": "Mercer St & Spring St",
+        "longitude": -73.99949601
+    },
+    "73": {
+        "ID": 304,
+        "NAME": "Broadway & Battery Pl",
+        "longitude": -74.01361706
+    },
+    "74": {
+        "ID": 305,
+        "NAME": "E 58 St & 3 Ave",
+        "longitude": -73.96724467
+    },
+    "75": {
+        "ID": 307,
+        "NAME": "Canal St & Rutgers St",
+        "longitude": -73.98990025
+    },
+    "76": {
+        "ID": 308,
+        "NAME": "St James Pl & Oliver St",
+        "longitude": -73.99851193
+    },
+    "77": {
+        "ID": 309,
+        "NAME": "Murray St & West St",
+        "longitude": -74.013012
+    },
+    "78": {
+        "ID": 310,
+        "NAME": "State St & Smith St",
+        "longitude": -73.98912867
+    },
+    "79": {
+        "ID": 311,
+        "NAME": "Norfolk St & Broome St",
+        "longitude": -73.98802084
+    },
+    "80": {
+        "ID": 312,
+        "NAME": "Allen St & Stanton St",
+        "longitude": -73.989111
+    },
+    "81": {
+        "ID": 313,
+        "NAME": "Washington Ave & Park Ave",
+        "longitude": -73.96751037
+    },
+    "82": {
+        "ID": 315,
+        "NAME": "South St & Gouverneur Ln",
+        "longitude": -74.00670227
+    },
+    "83": {
+        "ID": 316,
+        "NAME": "Fulton St & William St",
+        "longitude": -74.00653609
+    },
+    "84": {
+        "ID": 317,
+        "NAME": "E 6 St & Avenue B",
+        "longitude": -73.98185424
+    },
+    "85": {
+        "ID": 319,
+        "NAME": "Fulton St & Broadway",
+        "longitude": -74.009447
+    },
+    "86": {
+        "ID": 320,
+        "NAME": "Leonard St & Church St",
+        "longitude": -74.005549
+    },
+    "87": {
+        "ID": 321,
+        "NAME": "Cadman Plaza E & Red Cross Pl",
+        "longitude": -73.98971773
+    },
+    "88": {
+        "ID": 323,
+        "NAME": "Lawrence St & Willoughby St",
+        "longitude": -73.98631746
+    },
+    "89": {
+        "ID": 324,
+        "NAME": "DeKalb Ave & Hudson Ave",
+        "longitude": -73.981013
+    },
+    "90": {
+        "ID": 325,
+        "NAME": "E 19 St & 3 Ave",
+        "longitude": -73.98473765
+    },
+    "91": {
+        "ID": 326,
+        "NAME": "E 11 St & 1 Ave",
+        "longitude": -73.98426726
+    },
+    "92": {
+        "ID": 327,
+        "NAME": "Vesey Pl & River Terrace",
+        "longitude": -74.01658354
+    },
+    "93": {
+        "ID": 328,
+        "NAME": "Watts St & Greenwich St",
+        "longitude": -74.00965965
+    },
+    "94": {
+        "ID": 330,
+        "NAME": "Reade St & Broadway",
+        "longitude": -74.00562789
+    },
+    "95": {
+        "ID": 331,
+        "NAME": "Pike St & Monroe St",
+        "longitude": -73.99193043
+    },
+    "96": {
+        "ID": 332,
+        "NAME": "Cherry St",
+        "longitude": -73.97948148
+    },
+    "97": {
+        "ID": 334,
+        "NAME": "W 20 St & 7 Ave",
+        "longitude": -73.99726235
+    },
+    "98": {
+        "ID": 335,
+        "NAME": "Washington Pl & Broadway",
+        "longitude": -73.99404649
+    },
+    "99": {
+        "ID": 336,
+        "NAME": "Sullivan St & Washington Sq",
+        "longitude": -73.99906065
+    },
+    "100": {
+        "ID": 339,
+        "NAME": "Avenue D & E 12 St",
+        "longitude": -73.97422494
+    },
+    "101": {
+        "ID": 340,
+        "NAME": "Madison St & Clinton St",
+        "longitude": -73.98776323
+    },
+    "102": {
+        "ID": 341,
+        "NAME": "Stanton St & Mangin St",
+        "longitude": -73.97628939
+    },
+    "103": {
+        "ID": 342,
+        "NAME": "Columbia St & Rivington St",
+        "longitude": -73.98016555
+    },
+    "104": {
+        "ID": 343,
+        "NAME": "Clinton Ave & Flushing Ave",
+        "longitude": -73.96986848
+    },
+    "105": {
+        "ID": 344,
+        "NAME": "Monroe St & Bedford Ave",
+        "longitude": -73.95380904
+    },
+    "106": {
+        "ID": 346,
+        "NAME": "Bank St & Hudson St",
+        "longitude": -74.00618026
+    },
+    "107": {
+        "ID": 347,
+        "NAME": "Greenwich St & W Houston St",
+        "longitude": -74.00859100000001
+    },
+    "108": {
+        "ID": 349,
+        "NAME": "Rivington St & Ridge St",
+        "longitude": -73.98329859
+    },
+    "109": {
+        "ID": 350,
+        "NAME": "Clinton St & Grand St",
+        "longitude": -73.9870295
+    },
+    "110": {
+        "ID": 351,
+        "NAME": "Front St & Maiden Ln",
+        "longitude": -74.00612572
+    },
+    "111": {
+        "ID": 353,
+        "NAME": "S Portland Ave & Hanson Pl",
+        "longitude": -73.97431458
+    },
+    "112": {
+        "ID": 354,
+        "NAME": "Emerson Pl & Myrtle Ave",
+        "longitude": -73.96223558
+    },
+    "113": {
+        "ID": 355,
+        "NAME": "Bayard St & Baxter St",
+        "longitude": -73.99974372
+    },
+    "114": {
+        "ID": 356,
+        "NAME": "Bialystoker Pl & Delancey St",
+        "longitude": -73.98261206
+    },
+    "115": {
+        "ID": 358,
+        "NAME": "Christopher St & Greenwich St",
+        "longitude": -74.00711384
+    },
+    "116": {
+        "ID": 359,
+        "NAME": "E 47 St & Park Ave",
+        "longitude": -73.97498696
+    },
+    "117": {
+        "ID": 360,
+        "NAME": "William St & Pine St",
+        "longitude": -74.00887308
+    },
+    "118": {
+        "ID": 361,
+        "NAME": "Allen St & Hester St",
+        "longitude": -73.99190759
+    },
+    "119": {
+        "ID": 362,
+        "NAME": "Broadway & W 37 St",
+        "longitude": -73.98753523
+    },
+    "120": {
+        "ID": 363,
+        "NAME": "West Thames St",
+        "longitude": -74.01713445
+    },
+    "121": {
+        "ID": 364,
+        "NAME": "Lafayette Ave & Classon Ave",
+        "longitude": -73.96023854
+    },
+    "122": {
+        "ID": 366,
+        "NAME": "Clinton Ave & Myrtle Ave",
+        "longitude": -73.968896
+    },
+    "123": {
+        "ID": 367,
+        "NAME": "E 53 St & Lexington Ave",
+        "longitude": -73.97069431
+    },
+    "124": {
+        "ID": 368,
+        "NAME": "Carmine St & 6 Ave",
+        "longitude": -74.00214988
+    },
+    "125": {
+        "ID": 369,
+        "NAME": "Washington Pl & 6 Ave",
+        "longitude": -74.00026394
+    },
+    "126": {
+        "ID": 372,
+        "NAME": "Franklin Ave & Myrtle Ave",
+        "longitude": -73.95801365375519
+    },
+    "127": {
+        "ID": 373,
+        "NAME": "Willoughby Ave & Walworth St",
+        "longitude": -73.95381995
+    },
+    "128": {
+        "ID": 376,
+        "NAME": "John St & William St",
+        "longitude": -74.00722156
+    },
+    "129": {
+        "ID": 377,
+        "NAME": "6 Ave & Canal St",
+        "longitude": -74.00566443
+    },
+    "130": {
+        "ID": 379,
+        "NAME": "W 31 St & 7 Ave",
+        "longitude": -73.9916
+    },
+    "131": {
+        "ID": 380,
+        "NAME": "W 4 St & 7 Ave S",
+        "longitude": -74.00293877
+    },
+    "132": {
+        "ID": 383,
+        "NAME": "Greenwich Ave & Charles St",
+        "longitude": -74.000271
+    },
+    "133": {
+        "ID": 385,
+        "NAME": "E 55 St & 2 Ave",
+        "longitude": -73.96603308
+    },
+    "134": {
+        "ID": 386,
+        "NAME": "Centre St & Worth St",
+        "longitude": -74.00234482
+    },
+    "135": {
+        "ID": 387,
+        "NAME": "Centre St & Chambers St",
+        "longitude": -74.0046073
+    },
+    "136": {
+        "ID": 388,
+        "NAME": "W 26 St & 10 Ave",
+        "longitude": -74.002950346
+    },
+    "137": {
+        "ID": 389,
+        "NAME": "Broadway & Berry St",
+        "longitude": -73.96525063
+    },
+    "138": {
+        "ID": 390,
+        "NAME": "Duffield St & Willoughby St",
+        "longitude": -73.9842844
+    },
+    "139": {
+        "ID": 391,
+        "NAME": "Clark St & Henry St",
+        "longitude": -73.99344559
+    },
+    "140": {
+        "ID": 392,
+        "NAME": "Jay St & Tech Pl",
+        "longitude": -73.987167
+    },
+    "141": {
+        "ID": 393,
+        "NAME": "E 5 St & Avenue C",
+        "longitude": -73.97995466
+    },
+    "142": {
+        "ID": 394,
+        "NAME": "E 9 St & Avenue C",
+        "longitude": -73.97768752
+    },
+    "143": {
+        "ID": 396,
+        "NAME": "Lefferts Pl & Franklin Ave",
+        "longitude": -73.9557689392
+    },
+    "144": {
+        "ID": 397,
+        "NAME": "Fulton St & Clermont Ave",
+        "longitude": -73.96922273
+    },
+    "145": {
+        "ID": 398,
+        "NAME": "Atlantic Ave & Furman St",
+        "longitude": -73.99997859999999
+    },
+    "146": {
+        "ID": 399,
+        "NAME": "Lafayette Ave & St James Pl",
+        "longitude": -73.9647628
+    },
+    "147": {
+        "ID": 400,
+        "NAME": "Pitt St & Stanton St",
+        "longitude": -73.98178024
+    },
+    "148": {
+        "ID": 401,
+        "NAME": "Allen St & Rivington St",
+        "longitude": -73.98997825
+    },
+    "149": {
+        "ID": 402,
+        "NAME": "Broadway & E 22 St",
+        "longitude": -73.98955109
+    },
+    "150": {
+        "ID": 403,
+        "NAME": "E 2 St & 2 Ave",
+        "longitude": -73.99069656
+    },
+    "151": {
+        "ID": 405,
+        "NAME": "Washington St & Gansevoort St",
+        "longitude": -74.008119
+    },
+    "152": {
+        "ID": 406,
+        "NAME": "Hicks St & Montague St",
+        "longitude": -73.99595065
+    },
+    "153": {
+        "ID": 408,
+        "NAME": "Market St & Cherry St",
+        "longitude": -73.99400398
+    },
+    "154": {
+        "ID": 410,
+        "NAME": "Suffolk St & Stanton St",
+        "longitude": -73.98517977
+    },
+    "155": {
+        "ID": 411,
+        "NAME": "E 6 St & Avenue D",
+        "longitude": -73.97668709
+    },
+    "156": {
+        "ID": 412,
+        "NAME": "Forsyth St & Canal St",
+        "longitude": -73.99422366
+    },
+    "157": {
+        "ID": 415,
+        "NAME": "Pearl St & Hanover Square",
+        "longitude": -74.00926027
+    },
+    "158": {
+        "ID": 416,
+        "NAME": "Cumberland St & Lafayette Ave",
+        "longitude": -73.97265183
+    },
+    "159": {
+        "ID": 417,
+        "NAME": "Barclay St & Church St",
+        "longitude": -74.01020234
+    },
+    "160": {
+        "ID": 418,
+        "NAME": "Front St & Gold St",
+        "longitude": -73.982578
+    },
+    "161": {
+        "ID": 419,
+        "NAME": "Carlton Ave & Park Ave",
+        "longitude": -73.97355569
+    },
+    "162": {
+        "ID": 420,
+        "NAME": "Clermont Ave & Lafayette Ave",
+        "longitude": -73.96968902
+    },
+    "163": {
+        "ID": 421,
+        "NAME": "Clermont Ave & Park Ave",
+        "longitude": -73.97129668
+    },
+    "164": {
+        "ID": 422,
+        "NAME": "W 59 St & 10 Ave",
+        "longitude": -73.988038
+    },
+    "165": {
+        "ID": 423,
+        "NAME": "W 54 St & 9 Ave",
+        "longitude": -73.98690506
+    },
+    "166": {
+        "ID": 426,
+        "NAME": "West St & Chambers St",
+        "longitude": -74.01322069
+    },
+    "167": {
+        "ID": 427,
+        "NAME": "Bus Slip & State St",
+        "longitude": -74.013942
+    },
+    "168": {
+        "ID": 432,
+        "NAME": "E 7 St & Avenue A",
+        "longitude": -73.98379855
+    },
+    "169": {
+        "ID": 434,
+        "NAME": "9 Ave & W 18 St",
+        "longitude": -74.00366443
+    },
+    "170": {
+        "ID": 435,
+        "NAME": "W 21 St & 6 Ave",
+        "longitude": -73.99415556
+    },
+    "171": {
+        "ID": 436,
+        "NAME": "Hancock St & Bedford Ave",
+        "longitude": -73.95399026
+    },
+    "172": {
+        "ID": 437,
+        "NAME": "Macon St & Nostrand Ave",
+        "longitude": -73.9500479759
+    },
+    "173": {
+        "ID": 438,
+        "NAME": "St Marks Pl & 1 Ave",
+        "longitude": -73.98564945
+    },
+    "174": {
+        "ID": 439,
+        "NAME": "E 4 St & 2 Ave",
+        "longitude": -73.98978041
+    },
+    "175": {
+        "ID": 440,
+        "NAME": "E 45 St & 3 Ave",
+        "longitude": -73.97282625
+    },
+    "176": {
+        "ID": 442,
+        "NAME": "W 27 St & 7 Ave",
+        "longitude": -73.993915
+    },
+    "177": {
+        "ID": 443,
+        "NAME": "Bedford Ave & S 9 St",
+        "longitude": -73.96408963
+    },
+    "178": {
+        "ID": 445,
+        "NAME": "E 10 St & Avenue A",
+        "longitude": -73.98142006
+    },
+    "179": {
+        "ID": 446,
+        "NAME": "W 24 St & 7 Ave",
+        "longitude": -73.99529885
+    },
+    "180": {
+        "ID": 447,
+        "NAME": "8 Ave & W 52 St",
+        "longitude": -73.9851615
+    },
+    "181": {
+        "ID": 448,
+        "NAME": "W 37 St & 10 Ave",
+        "longitude": -73.9979009
+    },
+    "182": {
+        "ID": 450,
+        "NAME": "W 49 St & 8 Ave",
+        "longitude": -73.98788205
+    },
+    "183": {
+        "ID": 453,
+        "NAME": "W 22 St & 8 Ave",
+        "longitude": -73.99915362
+    },
+    "184": {
+        "ID": 454,
+        "NAME": "E 51 St & 1 Ave",
+        "longitude": -73.96592976
+    },
+    "185": {
+        "ID": 455,
+        "NAME": "1 Ave & E 44 St",
+        "longitude": -73.96905301
+    },
+    "186": {
+        "ID": 456,
+        "NAME": "E 53 St & Madison Ave",
+        "longitude": -73.97402311
+    },
+    "187": {
+        "ID": 458,
+        "NAME": "11 Ave & W 27 St",
+        "longitude": -74.00522600000001
+    },
+    "188": {
+        "ID": 459,
+        "NAME": "W 20 St & 11 Ave",
+        "longitude": -74.007756
+    },
+    "189": {
+        "ID": 460,
+        "NAME": "S 4 St & Wythe Ave",
+        "longitude": -73.96590294
+    },
+    "190": {
+        "ID": 461,
+        "NAME": "E 20 St & 2 Ave",
+        "longitude": -73.98205027
+    },
+    "191": {
+        "ID": 462,
+        "NAME": "W 22 St & 10 Ave",
+        "longitude": -74.00451887
+    },
+    "192": {
+        "ID": 464,
+        "NAME": "E 56 St & 3 Ave",
+        "longitude": -73.96759673
+    },
+    "193": {
+        "ID": 465,
+        "NAME": "Broadway & W 41 St",
+        "longitude": -73.98658032
+    },
+    "194": {
+        "ID": 466,
+        "NAME": "W 25 St & 6 Ave",
+        "longitude": -73.99144871
+    },
+    "195": {
+        "ID": 467,
+        "NAME": "Dean St & 4 Ave",
+        "longitude": -73.97895137
+    },
+    "196": {
+        "ID": 468,
+        "NAME": "Broadway & W 56 St",
+        "longitude": -73.98192338
+    },
+    "197": {
+        "ID": 469,
+        "NAME": "Broadway & W 53 St",
+        "longitude": -73.98268129
+    },
+    "198": {
+        "ID": 470,
+        "NAME": "W 20 St & 8 Ave",
+        "longitude": -74.00004031
+    },
+    "199": {
+        "ID": 471,
+        "NAME": "Grand St & Havemeyer St",
+        "longitude": -73.95698119
+    },
+    "200": {
+        "ID": 472,
+        "NAME": "E 32 St & Park Ave",
+        "longitude": -73.98194829
+    },
+    "201": {
+        "ID": 473,
+        "NAME": "Rivington St & Chrystie St",
+        "longitude": -73.99192540000001
+    },
+    "202": {
+        "ID": 474,
+        "NAME": "5 Ave & E 29 St",
+        "longitude": -73.98683077
+    },
+    "203": {
+        "ID": 476,
+        "NAME": "E 31 St & 3 Ave",
+        "longitude": -73.97966069
+    },
+    "204": {
+        "ID": 477,
+        "NAME": "W 41 St & 8 Ave",
+        "longitude": -73.9900262
+    },
+    "205": {
+        "ID": 478,
+        "NAME": "11 Ave & W 41 St",
+        "longitude": -73.99884222
+    },
+    "206": {
+        "ID": 479,
+        "NAME": "9 Ave & W 45 St",
+        "longitude": -73.9912551
+    },
+    "207": {
+        "ID": 480,
+        "NAME": "W 53 St & 10 Ave",
+        "longitude": -73.99061728
+    },
+    "208": {
+        "ID": 481,
+        "NAME": "S 3 St & Bedford Ave",
+        "longitude": -73.96264403
+    },
+    "209": {
+        "ID": 482,
+        "NAME": "W 15 St & 7 Ave",
+        "longitude": -73.99931783
+    },
+    "210": {
+        "ID": 483,
+        "NAME": "E 12 St & 3 Ave",
+        "longitude": -73.98889957
+    },
+    "211": {
+        "ID": 484,
+        "NAME": "W 44 St & 5 Ave",
+        "longitude": -73.98014437
+    },
+    "212": {
+        "ID": 485,
+        "NAME": "W 37 St & 5 Ave",
+        "longitude": -73.98338988
+    },
+    "213": {
+        "ID": 486,
+        "NAME": "Broadway & W 29 St",
+        "longitude": -73.98855723
+    },
+    "214": {
+        "ID": 487,
+        "NAME": "E 20 St & FDR Drive",
+        "longitude": -73.97573881
+    },
+    "215": {
+        "ID": 489,
+        "NAME": "10 Ave & W 28 St",
+        "longitude": -74.00176802
+    },
+    "216": {
+        "ID": 490,
+        "NAME": "8 Ave & W 33 St",
+        "longitude": -73.993934
+    },
+    "217": {
+        "ID": 491,
+        "NAME": "E 24 St & Park Ave S",
+        "longitude": -73.98602213
+    },
+    "218": {
+        "ID": 492,
+        "NAME": "W 33 St & 7 Ave",
+        "longitude": -73.99093085
+    },
+    "219": {
+        "ID": 493,
+        "NAME": "W 45 St & 6 Ave",
+        "longitude": -73.98291153
+    },
+    "220": {
+        "ID": 494,
+        "NAME": "W 26 St & 8 Ave",
+        "longitude": -73.99723551
+    },
+    "221": {
+        "ID": 495,
+        "NAME": "W 47 St & 10 Ave",
+        "longitude": -73.99301222
+    },
+    "222": {
+        "ID": 496,
+        "NAME": "E 16 St & 5 Ave",
+        "longitude": -73.99238967
+    },
+    "223": {
+        "ID": 497,
+        "NAME": "E 17 St & Broadway",
+        "longitude": -73.99009296
+    },
+    "224": {
+        "ID": 499,
+        "NAME": "Broadway & W 60 St",
+        "longitude": -73.98191841
+    },
+    "225": {
+        "ID": 500,
+        "NAME": "Broadway & W 51 St",
+        "longitude": -73.98336183
+    },
+    "226": {
+        "ID": 501,
+        "NAME": "FDR Drive & E 35 St",
+        "longitude": -73.97121214
+    },
+    "227": {
+        "ID": 502,
+        "NAME": "Henry St & Grand St",
+        "longitude": -73.981095
+    },
+    "228": {
+        "ID": 503,
+        "NAME": "E 20 St & Park Ave",
+        "longitude": -73.98751968
+    },
+    "229": {
+        "ID": 504,
+        "NAME": "1 Ave & E 16 St",
+        "longitude": -73.98165557
+    },
+    "230": {
+        "ID": 505,
+        "NAME": "6 Ave & W 33 St",
+        "longitude": -73.98848395
+    },
+    "231": {
+        "ID": 507,
+        "NAME": "E 25 St & 2 Ave",
+        "longitude": -73.97973776
+    },
+    "232": {
+        "ID": 508,
+        "NAME": "W 46 St & 11 Ave",
+        "longitude": -73.99667444
+    },
+    "233": {
+        "ID": 509,
+        "NAME": "9 Ave & W 22 St",
+        "longitude": -74.00197139
+    },
+    "234": {
+        "ID": 513,
+        "NAME": "W 56 St & 10 Ave",
+        "longitude": -73.988639
+    },
+    "235": {
+        "ID": 514,
+        "NAME": "12 Ave & W 40 St",
+        "longitude": -74.00277668
+    },
+    "236": {
+        "ID": 515,
+        "NAME": "W 43 St & 10 Ave",
+        "longitude": -73.99461843
+    },
+    "237": {
+        "ID": 516,
+        "NAME": "E 47 St & 1 Ave",
+        "longitude": -73.96784384
+    },
+    "238": {
+        "ID": 517,
+        "NAME": "Pershing Square South",
+        "longitude": -73.97791
+    },
+    "239": {
+        "ID": 518,
+        "NAME": "E 39 St & 2 Ave",
+        "longitude": -73.97344190000001
+    },
+    "240": {
+        "ID": 519,
+        "NAME": "Pershing Square North",
+        "longitude": -73.97770600000001
+    },
+    "241": {
+        "ID": 520,
+        "NAME": "W 52 St & 5 Ave",
+        "longitude": -73.97648516
+    },
+    "242": {
+        "ID": 522,
+        "NAME": "E 51 St & Lexington Ave",
+        "longitude": -73.97207836
+    },
+    "243": {
+        "ID": 523,
+        "NAME": "W 38 St & 8 Ave",
+        "longitude": -73.99138152
+    },
+    "244": {
+        "ID": 525,
+        "NAME": "W 34 St & 11 Ave",
+        "longitude": -74.0021163
+    },
+    "245": {
+        "ID": 526,
+        "NAME": "E 33 St & 5 Ave",
+        "longitude": -73.98490707
+    },
+    "246": {
+        "ID": 528,
+        "NAME": "2 Ave & E 31 St",
+        "longitude": -73.97706058
+    },
+    "247": {
+        "ID": 529,
+        "NAME": "W 42 St & 8 Ave",
+        "longitude": -73.99098507
+    },
+    "248": {
+        "ID": 530,
+        "NAME": "11 Ave & W 59 St",
+        "longitude": -73.99046033620834
+    },
+    "249": {
+        "ID": 531,
+        "NAME": "Forsyth St & Broome St",
+        "longitude": -73.99266288
+    },
+    "250": {
+        "ID": 532,
+        "NAME": "S 5 Pl & S 5 St",
+        "longitude": -73.960876
+    },
+    "251": {
+        "ID": 533,
+        "NAME": "Broadway & W 38 St",
+        "longitude": -73.98721619
+    },
+    "252": {
+        "ID": 534,
+        "NAME": "Water - Whitehall Plaza",
+        "longitude": -74.0127234
+    },
+    "253": {
+        "ID": 536,
+        "NAME": "1 Ave & E 30 St",
+        "longitude": -73.97536082
+    },
+    "254": {
+        "ID": 539,
+        "NAME": "Metropolitan Ave & Bedford Ave",
+        "longitude": -73.96024116
+    },
+    "255": {
+        "ID": 540,
+        "NAME": "Lexington Ave & E 29 St",
+        "longitude": -73.98215353488922
+    },
+    "256": {
+        "ID": 545,
+        "NAME": "E 23 St & 1 Ave",
+        "longitude": -73.97809472
+    },
+    "257": {
+        "ID": 546,
+        "NAME": "E 30 St & Park Ave S",
+        "longitude": -73.98303529
+    },
+    "258": {
+        "ID": 2000,
+        "NAME": "Front St & Washington St",
+        "longitude": -73.98940236
+    },
+    "259": {
+        "ID": 2002,
+        "NAME": "Wythe Ave & Metropolitan Ave",
+        "longitude": -73.96319799999999
+    },
+    "260": {
+        "ID": 2003,
+        "NAME": "1 Ave & E 18 St",
+        "longitude": -73.9805442094803
+    },
+    "261": {
+        "ID": 2005,
+        "NAME": "Railroad Ave & Kay Ave",
+        "longitude": -73.97100056
+    },
+    "262": {
+        "ID": 2006,
+        "NAME": "Central Park S & 6 Ave",
+        "longitude": -73.97634151
+    },
+    "263": {
+        "ID": 2008,
+        "NAME": "Little West St & 1 Pl",
+        "longitude": -74.01677685
+    },
+    "264": {
+        "ID": 2009,
+        "NAME": "Catherine St & Monroe St",
+        "longitude": -73.99682619
+    },
+    "265": {
+        "ID": 2010,
+        "NAME": "Grand St & Greene St",
+        "longitude": -74.00238141417502
+    },
+    "266": {
+        "ID": 2012,
+        "NAME": "E 27 St & 1 Ave",
+        "longitude": -73.97680600000001
+    },
+    "267": {
+        "ID": 2017,
+        "NAME": "E 43 St & 2 Ave",
+        "longitude": -73.97121414
+    },
+    "268": {
+        "ID": 2021,
+        "NAME": "W 45 St & 8 Ave",
+        "longitude": -73.98859651
+    },
+    "269": {
+        "ID": 2022,
+        "NAME": "E 60 St & York Ave",
+        "longitude": -73.959223
+    },
+    "270": {
+        "ID": 3016,
+        "NAME": "Kent Ave & N 7 St",
+        "longitude": -73.96165072917937
+    },
+    "271": {
+        "ID": 3041,
+        "NAME": "Kingston Ave & Herkimer St",
+        "longitude": -73.94142771
+    },
+    "272": {
+        "ID": 3042,
+        "NAME": "Fulton St & Utica Ave",
+        "longitude": -73.92989109999999
+    },
+    "273": {
+        "ID": 3043,
+        "NAME": "Lewis Ave & Decatur St",
+        "longitude": -73.934903
+    },
+    "274": {
+        "ID": 3044,
+        "NAME": "Albany Ave & Fulton St",
+        "longitude": -73.938475
+    },
+    "275": {
+        "ID": 3046,
+        "NAME": "Marcus Garvey Blvd & Macon St",
+        "longitude": -73.938037
+    },
+    "276": {
+        "ID": 3047,
+        "NAME": "Halsey St & Tompkins Ave",
+        "longitude": -73.944118
+    },
+    "277": {
+        "ID": 3048,
+        "NAME": "Putnam Ave & Nostrand Ave",
+        "longitude": -73.94977
+    },
+    "278": {
+        "ID": 3049,
+        "NAME": "Cambridge Pl & Gates Ave",
+        "longitude": -73.96304
+    },
+    "279": {
+        "ID": 3050,
+        "NAME": "Putnam Ave & Throop Ave",
+        "longitude": -73.94111
+    },
+    "280": {
+        "ID": 3052,
+        "NAME": "Lewis Ave & Madison St",
+        "longitude": -73.935775
+    },
+    "281": {
+        "ID": 3053,
+        "NAME": "Marcy Ave & Lafayette Ave",
+        "longitude": -73.94791500000001
+    },
+    "282": {
+        "ID": 3054,
+        "NAME": "Greene Ave & Throop Ave",
+        "longitude": -73.942061
+    },
+    "283": {
+        "ID": 3055,
+        "NAME": "Greene Ave & Nostrand Ave",
+        "longitude": -73.950916
+    },
+    "284": {
+        "ID": 3056,
+        "NAME": "Kosciuszko St & Nostrand Ave",
+        "longitude": -73.95133465
+    },
+    "285": {
+        "ID": 3057,
+        "NAME": "Kosciuszko St & Tompkins Ave",
+        "longitude": -73.9452416
+    },
+    "286": {
+        "ID": 3058,
+        "NAME": "Lewis Ave & Kosciuszko St",
+        "longitude": -73.93705428
+    },
+    "287": {
+        "ID": 3059,
+        "NAME": "Pulaski St & Marcus Garvey Blvd",
+        "longitude": -73.939877
+    },
+    "288": {
+        "ID": 3060,
+        "NAME": "Willoughby Ave & Tompkins Ave",
+        "longitude": -73.94626915
+    },
+    "289": {
+        "ID": 3061,
+        "NAME": "Throop Ave & Myrtle Ave",
+        "longitude": -73.94371094
+    },
+    "290": {
+        "ID": 3062,
+        "NAME": "Myrtle Ave & Marcy Ave",
+        "longitude": -73.94954908
+    },
+    "291": {
+        "ID": 3063,
+        "NAME": "Nostrand Ave & Myrtle Ave",
+        "longitude": -73.95238108
+    },
+    "292": {
+        "ID": 3064,
+        "NAME": "Myrtle Ave & Lewis Ave",
+        "longitude": -73.93756926
+    },
+    "293": {
+        "ID": 3065,
+        "NAME": "Union Ave & Wallabout St",
+        "longitude": -73.95032283
+    },
+    "294": {
+        "ID": 3066,
+        "NAME": "Tompkins Ave & Hopkins St",
+        "longitude": -73.94708417
+    },
+    "295": {
+        "ID": 3067,
+        "NAME": "Broadway & Whipple St",
+        "longitude": -73.9437303
+    },
+    "296": {
+        "ID": 3068,
+        "NAME": "Humboldt St & Varet St",
+        "longitude": -73.940636
+    },
+    "297": {
+        "ID": 3069,
+        "NAME": "Lorimer St & Broadway",
+        "longitude": -73.94818595
+    },
+    "298": {
+        "ID": 3070,
+        "NAME": "McKibbin St & Manhattan Ave",
+        "longitude": -73.94407279
+    },
+    "299": {
+        "ID": 3071,
+        "NAME": "Boerum St & Broadway",
+        "longitude": -73.94976519
+    },
+    "300": {
+        "ID": 3072,
+        "NAME": "Leonard St & Boerum St",
+        "longitude": -73.94644578
+    },
+    "301": {
+        "ID": 3074,
+        "NAME": "Montrose Ave & Bushwick Ave",
+        "longitude": -73.94016171
+    },
+    "302": {
+        "ID": 3075,
+        "NAME": "Division Ave & Marcy Ave",
+        "longitude": -73.95796783
+    },
+    "303": {
+        "ID": 3076,
+        "NAME": "Scholes St & Manhattan Ave",
+        "longitude": -73.9448625
+    },
+    "304": {
+        "ID": 3077,
+        "NAME": "Stagg St & Union Ave",
+        "longitude": -73.95095259
+    },
+    "305": {
+        "ID": 3078,
+        "NAME": "Broadway & Roebling St",
+        "longitude": -73.96063148975372
+    },
+    "306": {
+        "ID": 3080,
+        "NAME": "S 4 St & Rodney St",
+        "longitude": -73.95608
+    },
+    "307": {
+        "ID": 3081,
+        "NAME": "Graham Ave & Grand St",
+        "longitude": -73.944024
+    },
+    "308": {
+        "ID": 3082,
+        "NAME": "Hope St & Union Ave",
+        "longitude": -73.95141312
+    },
+    "309": {
+        "ID": 3083,
+        "NAME": "Bushwick Ave & Powers St",
+        "longitude": -73.94100005
+    },
+    "310": {
+        "ID": 3085,
+        "NAME": "Roebling St & N 4 St",
+        "longitude": -73.95739
+    },
+    "311": {
+        "ID": 3086,
+        "NAME": "Graham Ave & Conselyea St",
+        "longitude": -73.944507
+    },
+    "312": {
+        "ID": 3087,
+        "NAME": "Metropolitan Ave & Meeker Ave",
+        "longitude": -73.95234386
+    },
+    "313": {
+        "ID": 3088,
+        "NAME": "Union Ave & Jackson St",
+        "longitude": -73.95202900000001
+    },
+    "314": {
+        "ID": 3092,
+        "NAME": "Berry St & N 8 St",
+        "longitude": -73.95852515
+    },
+    "315": {
+        "ID": 3093,
+        "NAME": "N 6 St & Bedford Ave",
+        "longitude": -73.95850939
+    },
+    "316": {
+        "ID": 3094,
+        "NAME": "Graham Ave & Withers St",
+        "longitude": -73.94485918
+    },
+    "317": {
+        "ID": 3095,
+        "NAME": "Graham Ave & Herbert St",
+        "longitude": -73.94500379
+    },
+    "318": {
+        "ID": 3096,
+        "NAME": "Union Ave & N 12 St",
+        "longitude": -73.95241999999999
+    },
+    "319": {
+        "ID": 3100,
+        "NAME": "Nassau Ave & Newell St",
+        "longitude": -73.94752621650694
+    },
+    "320": {
+        "ID": 3101,
+        "NAME": "N 12 St & Bedford Ave",
+        "longitude": -73.95484712
+    },
+    "321": {
+        "ID": 3102,
+        "NAME": "Driggs Ave & Lorimer St",
+        "longitude": -73.95041540000001
+    },
+    "322": {
+        "ID": 3105,
+        "NAME": "N 15 St & Wythe Ave",
+        "longitude": -73.955736
+    },
+    "323": {
+        "ID": 3106,
+        "NAME": "Driggs Ave & N Henry St",
+        "longitude": -73.94308000000001
+    },
+    "324": {
+        "ID": 3107,
+        "NAME": "Bedford Ave & Nassau Ave",
+        "longitude": -73.95212324
+    },
+    "325": {
+        "ID": 3108,
+        "NAME": "Nassau Ave & Russell St",
+        "longitude": -73.94434
+    },
+    "326": {
+        "ID": 3109,
+        "NAME": "Banker St & Meserole Ave",
+        "longitude": -73.95621
+    },
+    "327": {
+        "ID": 3110,
+        "NAME": "Meserole Ave & Manhattan Ave",
+        "longitude": -73.95299117
+    },
+    "328": {
+        "ID": 3112,
+        "NAME": "Milton St & Franklin St",
+        "longitude": -73.95779
+    },
+    "329": {
+        "ID": 3113,
+        "NAME": "Greenpoint Ave & Manhattan Ave",
+        "longitude": -73.95394
+    },
+    "330": {
+        "ID": 3115,
+        "NAME": "India St & Manhattan Ave",
+        "longitude": -73.9550858
+    },
+    "331": {
+        "ID": 3116,
+        "NAME": "Huron St & Franklin St",
+        "longitude": -73.95826
+    },
+    "332": {
+        "ID": 3117,
+        "NAME": "Franklin St & Dupont St",
+        "longitude": -73.95866
+    },
+    "333": {
+        "ID": 3118,
+        "NAME": "McGuinness Blvd & Eagle St",
+        "longitude": -73.95284000000001
+    },
+    "334": {
+        "ID": 3119,
+        "NAME": "Vernon Blvd & 50 Ave",
+        "longitude": -73.95411749
+    },
+    "335": {
+        "ID": 3121,
+        "NAME": "Jackson Ave & 46 Rd",
+        "longitude": -73.94733276
+    },
+    "336": {
+        "ID": 3122,
+        "NAME": "48 Ave & 5 St",
+        "longitude": -73.95587325096129
+    },
+    "337": {
+        "ID": 3123,
+        "NAME": "31 St & Thomson Ave",
+        "longitude": -73.93540375
+    },
+    "338": {
+        "ID": 3124,
+        "NAME": "46 Ave & 5 St",
+        "longitude": -73.95451
+    },
+    "339": {
+        "ID": 3125,
+        "NAME": "45 Rd & 11 St",
+        "longitude": -73.94977234
+    },
+    "340": {
+        "ID": 3126,
+        "NAME": "44 Dr & Jackson Ave",
+        "longitude": -73.9432635
+    },
+    "341": {
+        "ID": 3127,
+        "NAME": "9 St & 44 Rd",
+        "longitude": -73.9521
+    },
+    "342": {
+        "ID": 3128,
+        "NAME": "21 St & 43 Ave",
+        "longitude": -73.94594845
+    },
+    "343": {
+        "ID": 3129,
+        "NAME": "Queens Plaza North & Crescent St",
+        "longitude": -73.94073717
+    },
+    "344": {
+        "ID": 3130,
+        "NAME": "21 St & Queens Plaza North",
+        "longitude": -73.94335788
+    },
+    "345": {
+        "ID": 3131,
+        "NAME": "E 68 St & 3 Ave",
+        "longitude": -73.96224617958069
+    },
+    "346": {
+        "ID": 3132,
+        "NAME": "E 59 St & Madison Ave",
+        "longitude": -73.97109243
+    },
+    "347": {
+        "ID": 3134,
+        "NAME": "3 Ave & E 62 St",
+        "longitude": -73.96526895
+    },
+    "348": {
+        "ID": 3135,
+        "NAME": "E 75 St & 3 Ave",
+        "longitude": -73.95772297
+    },
+    "349": {
+        "ID": 3136,
+        "NAME": "5 Ave & E 63 St",
+        "longitude": -73.971518
+    },
+    "350": {
+        "ID": 3137,
+        "NAME": "5 Ave & E 73 St",
+        "longitude": -73.96685276
+    },
+    "351": {
+        "ID": 3139,
+        "NAME": "E 72 St & Park Ave",
+        "longitude": -73.96409422159195
+    },
+    "352": {
+        "ID": 3140,
+        "NAME": "1 Ave & E 78 St",
+        "longitude": -73.9535166
+    },
+    "353": {
+        "ID": 3141,
+        "NAME": "1 Ave & E 68 St",
+        "longitude": -73.95818491
+    },
+    "354": {
+        "ID": 3142,
+        "NAME": "1 Ave & E 62 St",
+        "longitude": -73.96094022
+    },
+    "355": {
+        "ID": 3143,
+        "NAME": "5 Ave & E 78 St",
+        "longitude": -73.96427392959596
+    },
+    "356": {
+        "ID": 3144,
+        "NAME": "E 81 St & Park Ave",
+        "longitude": -73.95900970000001
+    },
+    "357": {
+        "ID": 3145,
+        "NAME": "E 84 St & Park Ave",
+        "longitude": -73.95772073
+    },
+    "358": {
+        "ID": 3146,
+        "NAME": "E 81 St & 3 Ave",
+        "longitude": -73.9567526
+    },
+    "359": {
+        "ID": 3147,
+        "NAME": "E 85 St & 3 Ave",
+        "longitude": -73.95407149
+    },
+    "360": {
+        "ID": 3148,
+        "NAME": "E 84 St & 1 Ave",
+        "longitude": -73.95068615
+    },
+    "361": {
+        "ID": 3150,
+        "NAME": "E 85 St & York Ave",
+        "longitude": -73.94803392
+    },
+    "362": {
+        "ID": 3151,
+        "NAME": "E 81 St & York Ave",
+        "longitude": -73.94989233
+    },
+    "363": {
+        "ID": 3152,
+        "NAME": "3 Ave & E 71 St",
+        "longitude": -73.96119945
+    },
+    "364": {
+        "ID": 3154,
+        "NAME": "E 77 St & 3 Ave",
+        "longitude": -73.95856158
+    },
+    "365": {
+        "ID": 3156,
+        "NAME": "E 72 St & York Ave",
+        "longitude": -73.95348296
+    },
+    "366": {
+        "ID": 3157,
+        "NAME": "East End Ave & E 86 St",
+        "longitude": -73.94446054
+    },
+    "367": {
+        "ID": 3158,
+        "NAME": "W 63 St & Broadway",
+        "longitude": -73.98261428
+    },
+    "368": {
+        "ID": 3159,
+        "NAME": "W 67 St & Broadway",
+        "longitude": -73.98266566
+    },
+    "369": {
+        "ID": 3160,
+        "NAME": "Central Park West & W 76 St",
+        "longitude": -73.97374737
+    },
+    "370": {
+        "ID": 3161,
+        "NAME": "W 76 St & Columbus Ave",
+        "longitude": -73.97728532552719
+    },
+    "371": {
+        "ID": 3163,
+        "NAME": "Central Park West & W 68 St",
+        "longitude": -73.97782542
+    },
+    "372": {
+        "ID": 3164,
+        "NAME": "Columbus Ave & W 72 St",
+        "longitude": -73.97898475
+    },
+    "373": {
+        "ID": 3165,
+        "NAME": "Central Park West & W 72 St",
+        "longitude": -73.97620573639871
+    },
+    "374": {
+        "ID": 3166,
+        "NAME": "Riverside Dr & W 72 St",
+        "longitude": -73.98562431335448
+    },
+    "375": {
+        "ID": 3167,
+        "NAME": "Amsterdam Ave & W 73 St",
+        "longitude": -73.98093044757842
+    },
+    "376": {
+        "ID": 3168,
+        "NAME": "Central Park West & W 85 St",
+        "longitude": -73.96961715
+    },
+    "377": {
+        "ID": 3169,
+        "NAME": "Riverside Dr & W 82 St",
+        "longitude": -73.98128127
+    },
+    "378": {
+        "ID": 3170,
+        "NAME": "W 84 St & Columbus Ave",
+        "longitude": -73.97283406
+    },
+    "379": {
+        "ID": 3171,
+        "NAME": "Amsterdam Ave & W 82 St",
+        "longitude": -73.97667321
+    },
+    "380": {
+        "ID": 3172,
+        "NAME": "W 74 St & Columbus Ave",
+        "longitude": -73.97754961
+    },
+    "381": {
+        "ID": 3173,
+        "NAME": "Riverside Blvd & W 67 St",
+        "longitude": -73.98888587951659
+    },
+    "382": {
+        "ID": 3175,
+        "NAME": "W 70 St & Amsterdam Ave",
+        "longitude": -73.98288594
+    },
+    "383": {
+        "ID": 3177,
+        "NAME": "W 84 St & Broadway",
+        "longitude": -73.977112
+    },
+    "384": {
+        "ID": 3178,
+        "NAME": "Riverside Dr & W 78 St",
+        "longitude": -73.98362492
+    },
+    "385": {
+        "ID": 3179,
+        "NAME": "Park Ave & Marcus Garvey Blvd",
+        "longitude": -73.941342
+    },
+    "386": {
+        "ID": 3184,
+        "NAME": "Paulus Hook",
+        "longitude": -74.0335519
+    },
+    "387": {
+        "ID": 3185,
+        "NAME": "City Hall",
+        "longitude": -74.04384499999999
+    },
+    "388": {
+        "ID": 3186,
+        "NAME": "Grove St PATH",
+        "longitude": -74.0431174635887
+    },
+    "389": {
+        "ID": 3187,
+        "NAME": "Warren St",
+        "longitude": -74.03805095
+    },
+    "390": {
+        "ID": 3191,
+        "NAME": "Union St",
+        "longitude": -74.08363940000001
+    },
+    "391": {
+        "ID": 3192,
+        "NAME": "Liberty Light Rail",
+        "longitude": -74.0557013
+    },
+    "392": {
+        "ID": 3193,
+        "NAME": "Lincoln Park",
+        "longitude": -74.07840594649316
+    },
+    "393": {
+        "ID": 3194,
+        "NAME": "McGinley Square",
+        "longitude": -74.06762212514876
+    },
+    "394": {
+        "ID": 3195,
+        "NAME": "Sip Ave",
+        "longitude": -74.06391263008119
+    },
+    "395": {
+        "ID": 3196,
+        "NAME": "Riverview Park",
+        "longitude": -74.04399090000001
+    },
+    "396": {
+        "ID": 3198,
+        "NAME": "Heights Elevator",
+        "longitude": -74.04044330120088
+    },
+    "397": {
+        "ID": 3199,
+        "NAME": "Newport Pkwy",
+        "longitude": -74.03210820000001
+    },
+    "398": {
+        "ID": 3201,
+        "NAME": "Dey St",
+        "longitude": -74.066921
+    },
+    "399": {
+        "ID": 3202,
+        "NAME": "Newport PATH",
+        "longitude": -74.03375890000001
+    },
+    "400": {
+        "ID": 3203,
+        "NAME": "Hamilton Park",
+        "longitude": -74.044247311
+    },
+    "401": {
+        "ID": 3205,
+        "NAME": "JC Medical Center",
+        "longitude": -74.0496379137039
+    },
+    "402": {
+        "ID": 3206,
+        "NAME": "Hilltop",
+        "longitude": -74.0575736
+    },
+    "403": {
+        "ID": 3207,
+        "NAME": "Oakland Ave",
+        "longitude": -74.05247829999999
+    },
+    "404": {
+        "ID": 3209,
+        "NAME": "Brunswick St",
+        "longitude": -74.05065640000001
+    },
+    "405": {
+        "ID": 3210,
+        "NAME": "Pershing Field",
+        "longitude": -74.051788633
+    },
+    "406": {
+        "ID": 3211,
+        "NAME": "Newark Ave",
+        "longitude": -74.046304543
+    },
+    "407": {
+        "ID": 3212,
+        "NAME": "Christ Hospital",
+        "longitude": -74.050443636
+    },
+    "408": {
+        "ID": 3213,
+        "NAME": "Van Vorst Park",
+        "longitude": -74.047726625
+    },
+    "409": {
+        "ID": 3214,
+        "NAME": "Essex Light Rail",
+        "longitude": -74.03648570000001
+    },
+    "410": {
+        "ID": 3220,
+        "NAME": "5 Corners Library",
+        "longitude": -74.05950307846071
+    },
+    "411": {
+        "ID": 3221,
+        "NAME": "47 Ave & 31 St",
+        "longitude": -73.93561
+    },
+    "412": {
+        "ID": 3225,
+        "NAME": "Baldwin at Montgomery",
+        "longitude": -74.0641943
+    },
+    "413": {
+        "ID": 3226,
+        "NAME": "W 82 St & Central Park West",
+        "longitude": -73.97137
+    },
+    "414": {
+        "ID": 3231,
+        "NAME": "E 67 St & Park Ave",
+        "longitude": -73.96592080593109
+    },
+    "415": {
+        "ID": 3232,
+        "NAME": "Bond St & Fulton St",
+        "longitude": -73.98304268717766
+    },
+    "416": {
+        "ID": 3233,
+        "NAME": "E 48 St & 5 Ave",
+        "longitude": -73.97805914282799
+    },
+    "417": {
+        "ID": 3235,
+        "NAME": "E 41 St & Madison Ave",
+        "longitude": -73.97992193698882
+    },
+    "418": {
+        "ID": 3236,
+        "NAME": "W 42 St & Dyer Ave",
+        "longitude": -73.99379968643187
+    },
+    "419": {
+        "ID": 3241,
+        "NAME": "Monroe St & Tompkins Ave",
+        "longitude": -73.944694
+    },
+    "420": {
+        "ID": 3242,
+        "NAME": "Schermerhorn St & Court St",
+        "longitude": -73.99183362722397
+    },
+    "421": {
+        "ID": 3243,
+        "NAME": "E 58 St & 1 Ave (NE Corner)",
+        "longitude": -73.96226227283478
+    },
+    "422": {
+        "ID": 3244,
+        "NAME": "University Pl & E 8 St",
+        "longitude": -73.99490341544151
+    },
+    "423": {
+        "ID": 3246,
+        "NAME": "Montague St & Clinton St",
+        "longitude": -73.99230033159256
+    },
+    "424": {
+        "ID": 3249,
+        "NAME": "Verona Pl & Fulton St",
+        "longitude": -73.94767910242079
+    },
+    "425": {
+        "ID": 3255,
+        "NAME": "8 Ave & W 31 St",
+        "longitude": -73.9946848154068
+    },
+    "426": {
+        "ID": 3256,
+        "NAME": "Pier 40 - Hudson River Park",
+        "longitude": -74.01129573583603
+    },
+    "427": {
+        "ID": 3259,
+        "NAME": "9 Ave & W 28 St",
+        "longitude": -73.99923384189607
+    },
+    "428": {
+        "ID": 3260,
+        "NAME": "Mercer St & Bleecker St",
+        "longitude": -73.99662137031554
+    },
+    "429": {
+        "ID": 3263,
+        "NAME": "Cooper Square & Astor Pl",
+        "longitude": -73.99075269699097
+    },
+    "430": {
+        "ID": 3267,
+        "NAME": "Morris Canal",
+        "longitude": -74.03852552175522
+    },
+    "431": {
+        "ID": 3268,
+        "NAME": "Lafayette Park",
+        "longitude": -74.06285852193831
+    },
+    "432": {
+        "ID": 3269,
+        "NAME": "Brunswick & 6th",
+        "longitude": -74.0503889322281
+    },
+    "433": {
+        "ID": 3270,
+        "NAME": "Jersey & 6th St",
+        "longitude": -74.04557168483734
+    },
+    "434": {
+        "ID": 3272,
+        "NAME": "Jersey & 3rd",
+        "longitude": -74.04595255851744
+    },
+    "435": {
+        "ID": 3273,
+        "NAME": "Manila & 1st",
+        "longitude": -74.04288411140442
+    },
+    "436": {
+        "ID": 3275,
+        "NAME": "Columbus Drive",
+        "longitude": -74.03891444206238
+    },
+    "437": {
+        "ID": 3276,
+        "NAME": "Marin Light Rail",
+        "longitude": -74.04281705617905
+    },
+    "438": {
+        "ID": 3277,
+        "NAME": "Communipaw & Berry Lane",
+        "longitude": -74.06661093235016
+    },
+    "439": {
+        "ID": 3278,
+        "NAME": "Monmouth and 6th",
+        "longitude": -74.0487903356552
+    },
+    "440": {
+        "ID": 3279,
+        "NAME": "Dixon Mills",
+        "longitude": -74.04996782541275
+    },
+    "441": {
+        "ID": 3280,
+        "NAME": "Astor Place",
+        "longitude": -74.07126188278198
+    },
+    "442": {
+        "ID": 3281,
+        "NAME": "Leonard Gordon Park",
+        "longitude": -74.05727148056029
+    },
+    "443": {
+        "ID": 3282,
+        "NAME": "5 Ave & E 88 St",
+        "longitude": -73.95939
+    },
+    "444": {
+        "ID": 3283,
+        "NAME": "W 89 St & Columbus Ave",
+        "longitude": -73.97041561
+    },
+    "445": {
+        "ID": 3284,
+        "NAME": "E 88 St & Park Ave",
+        "longitude": -73.95595908164978
+    },
+    "446": {
+        "ID": 3285,
+        "NAME": "W 87 St & Amsterdam Ave",
+        "longitude": -73.9747
+    },
+    "447": {
+        "ID": 3286,
+        "NAME": "E 89 St & 3 Ave",
+        "longitude": -73.9521667
+    },
+    "448": {
+        "ID": 3287,
+        "NAME": "W 87 St & West End Ave",
+        "longitude": -73.97757
+    },
+    "449": {
+        "ID": 3288,
+        "NAME": "E 88 St & 1 Ave",
+        "longitude": -73.9488134
+    },
+    "450": {
+        "ID": 3289,
+        "NAME": "W 90 St & Amsterdam Ave",
+        "longitude": -73.97288918495178
+    },
+    "451": {
+        "ID": 3290,
+        "NAME": "E 89 St & York Ave",
+        "longitude": -73.94604100000001
+    },
+    "452": {
+        "ID": 3292,
+        "NAME": "5 Ave & E 93 St",
+        "longitude": -73.957481
+    },
+    "453": {
+        "ID": 3293,
+        "NAME": "W 92 St & Broadway",
+        "longitude": -73.9739
+    },
+    "454": {
+        "ID": 3294,
+        "NAME": "E 91 St & Park Ave",
+        "longitude": -73.955327
+    },
+    "455": {
+        "ID": 3295,
+        "NAME": "Central Park W & W 96 St",
+        "longitude": -73.964839
+    },
+    "456": {
+        "ID": 3296,
+        "NAME": "E 93 St & 2 Ave",
+        "longitude": -73.94891962409021
+    },
+    "457": {
+        "ID": 3297,
+        "NAME": "6 St & 7 Ave",
+        "longitude": -73.97988067
+    },
+    "458": {
+        "ID": 3298,
+        "NAME": "Warren St & Court St",
+        "longitude": -73.99383324
+    },
+    "459": {
+        "ID": 3299,
+        "NAME": "E 98 St & Park Ave",
+        "longitude": -73.95206
+    },
+    "460": {
+        "ID": 3300,
+        "NAME": "Prospect Park West & 8 St",
+        "longitude": -73.97637605667114
+    },
+    "461": {
+        "ID": 3301,
+        "NAME": "Columbus Ave & W 95 St",
+        "longitude": -73.968087
+    },
+    "462": {
+        "ID": 3302,
+        "NAME": "Columbus Ave & W 103 St",
+        "longitude": -73.9643412291
+    },
+    "463": {
+        "ID": 3303,
+        "NAME": "Butler St & Court St",
+        "longitude": -73.99440329
+    },
+    "464": {
+        "ID": 3304,
+        "NAME": "6 Ave & 9 St",
+        "longitude": -73.98377641
+    },
+    "465": {
+        "ID": 3305,
+        "NAME": "E 91 St & 2 Ave",
+        "longitude": -73.94965589046478
+    },
+    "466": {
+        "ID": 3306,
+        "NAME": "10 St & 7 Ave",
+        "longitude": -73.98199886
+    },
+    "467": {
+        "ID": 3307,
+        "NAME": "West End Ave & W 94 St",
+        "longitude": -73.974124
+    },
+    "468": {
+        "ID": 3308,
+        "NAME": "Kane St & Clinton St",
+        "longitude": -73.99645295
+    },
+    "469": {
+        "ID": 3309,
+        "NAME": "E 97 St & 3 Ave",
+        "longitude": -73.94860294
+    },
+    "470": {
+        "ID": 3310,
+        "NAME": "14 St & 7 Ave",
+        "longitude": -73.98396846
+    },
+    "471": {
+        "ID": 3311,
+        "NAME": "Columbia St & Kane St",
+        "longitude": -74.0016256
+    },
+    "472": {
+        "ID": 3312,
+        "NAME": "1 Ave & E 94 St",
+        "longitude": -73.94594000000001
+    },
+    "473": {
+        "ID": 3313,
+        "NAME": "6 Ave & 12 St",
+        "longitude": -73.9854617
+    },
+    "474": {
+        "ID": 3314,
+        "NAME": "W 95 St & Broadway",
+        "longitude": -73.971888
+    },
+    "475": {
+        "ID": 3315,
+        "NAME": "Henry St & Degraw St",
+        "longitude": -73.99917254
+    },
+    "476": {
+        "ID": 3317,
+        "NAME": "10 St & 5 Ave",
+        "longitude": -73.98700053
+    },
+    "477": {
+        "ID": 3318,
+        "NAME": "2 Ave & E 96 St",
+        "longitude": -73.94716729999999
+    },
+    "478": {
+        "ID": 3319,
+        "NAME": "14 St & 5 Ave",
+        "longitude": -73.98895053
+    },
+    "479": {
+        "ID": 3320,
+        "NAME": "Central Park West & W 100 St",
+        "longitude": -73.96286845207214
+    },
+    "480": {
+        "ID": 3321,
+        "NAME": "Clinton St & Union St",
+        "longitude": -73.99785267
+    },
+    "481": {
+        "ID": 3322,
+        "NAME": "12 St & 4 Ave",
+        "longitude": -73.99043940000001
+    },
+    "482": {
+        "ID": 3323,
+        "NAME": "W 106 St & Central Park West",
+        "longitude": -73.96059090060001
+    },
+    "483": {
+        "ID": 3324,
+        "NAME": "3 Ave & 14 St",
+        "longitude": -73.99333264
+    },
+    "484": {
+        "ID": 3325,
+        "NAME": "E 95 St & 3 Ave",
+        "longitude": -73.950503
+    },
+    "485": {
+        "ID": 3326,
+        "NAME": "Clinton St & Centre St",
+        "longitude": -74.00194698
+    },
+    "486": {
+        "ID": 3327,
+        "NAME": "3 Ave & E 100 St",
+        "longitude": -73.94728331
+    },
+    "487": {
+        "ID": 3328,
+        "NAME": "W 100 St & Manhattan Ave",
+        "longitude": -73.9645
+    },
+    "488": {
+        "ID": 3329,
+        "NAME": "Degraw St & Smith St",
+        "longitude": -73.99318208
+    },
+    "489": {
+        "ID": 3330,
+        "NAME": "Henry St & Bay St",
+        "longitude": -74.00494695
+    },
+    "490": {
+        "ID": 3331,
+        "NAME": "Riverside Dr & W 104 St",
+        "longitude": -73.97114574390001
+    },
+    "491": {
+        "ID": 3332,
+        "NAME": "Degraw St & Hoyt St",
+        "longitude": -73.99079024791719
+    },
+    "492": {
+        "ID": 3333,
+        "NAME": "Columbia St & Lorraine St",
+        "longitude": -74.00755720000001
+    },
+    "493": {
+        "ID": 3335,
+        "NAME": "Union St & 4 Ave",
+        "longitude": -73.98282002
+    },
+    "494": {
+        "ID": 3336,
+        "NAME": "E 97 St & Madison Ave",
+        "longitude": -73.953559
+    },
+    "495": {
+        "ID": 3337,
+        "NAME": "Dwight St & Van Dyke St",
+        "longitude": -74.01195555925368
+    },
+    "496": {
+        "ID": 3338,
+        "NAME": "2 Ave & E 99 St",
+        "longitude": -73.94552579
+    },
+    "497": {
+        "ID": 3339,
+        "NAME": "Berkeley Pl & 6 Ave",
+        "longitude": -73.97846879
+    },
+    "498": {
+        "ID": 3340,
+        "NAME": "Wolcott St & Dwight St",
+        "longitude": -74.0100698
+    },
+    "499": {
+        "ID": 3341,
+        "NAME": "Central Park West & W 102 St",
+        "longitude": -73.96186
+    },
+    "500": {
+        "ID": 3342,
+        "NAME": "Pioneer St & Richards St",
+        "longitude": -74.0094613
+    },
+    "501": {
+        "ID": 3343,
+        "NAME": "W 107 St & Columbus Ave",
+        "longitude": -73.9621128676
+    },
+    "502": {
+        "ID": 3344,
+        "NAME": "Pioneer St & Van Brunt St",
+        "longitude": -74.011169
+    },
+    "503": {
+        "ID": 3345,
+        "NAME": "Madison Ave & E 99 St",
+        "longitude": -73.9524292945862
+    },
+    "504": {
+        "ID": 3346,
+        "NAME": "Berkeley Pl & 7 Ave",
+        "longitude": -73.9752320945263
+    },
+    "505": {
+        "ID": 3347,
+        "NAME": "Van Brunt St & Wolcott St",
+        "longitude": -74.01275056
+    },
+    "506": {
+        "ID": 3348,
+        "NAME": "Coffey St & Conover St",
+        "longitude": -74.015665
+    },
+    "507": {
+        "ID": 3349,
+        "NAME": "Grand Army Plaza & Plaza St West",
+        "longitude": -73.97087984
+    },
+    "508": {
+        "ID": 3350,
+        "NAME": "W 100 St & Broadway",
+        "longitude": -73.97041192
+    },
+    "509": {
+        "ID": 3351,
+        "NAME": "E 102 St & 1 Ave",
+        "longitude": -73.94164802
+    },
+    "510": {
+        "ID": 3352,
+        "NAME": "Sigourney St & Columbia St",
+        "longitude": -74.00879524648191
+    },
+    "511": {
+        "ID": 3354,
+        "NAME": "3 St & Prospect Park West",
+        "longitude": -73.97363831
+    },
+    "512": {
+        "ID": 3355,
+        "NAME": "E 66 St & Madison Ave",
+        "longitude": -73.96845281124116
+    },
+    "513": {
+        "ID": 3356,
+        "NAME": "Amsterdam Ave & W 66 St",
+        "longitude": -73.98470567
+    },
+    "514": {
+        "ID": 3357,
+        "NAME": "W 106 St & Amsterdam Ave",
+        "longitude": -73.9664492472
+    },
+    "515": {
+        "ID": 3358,
+        "NAME": "Garfield Pl & 8 Ave",
+        "longitude": -73.97484126
+    },
+    "516": {
+        "ID": 3359,
+        "NAME": "E 68 St & Madison Ave",
+        "longitude": -73.96703464
+    },
+    "517": {
+        "ID": 3360,
+        "NAME": "Amsterdam Ave & W 79 St",
+        "longitude": -73.9786517
+    },
+    "518": {
+        "ID": 3361,
+        "NAME": "Carroll St & 6 Ave",
+        "longitude": -73.9787282
+    },
+    "519": {
+        "ID": 3362,
+        "NAME": "Madison Ave & E 82 St",
+        "longitude": -73.96069399
+    },
+    "520": {
+        "ID": 3363,
+        "NAME": "E 102 St & Park Ave",
+        "longitude": -73.95033068
+    },
+    "521": {
+        "ID": 3364,
+        "NAME": "Carroll St & 5 Ave",
+        "longitude": -73.9814832
+    },
+    "522": {
+        "ID": 3365,
+        "NAME": "3 St & 7 Ave",
+        "longitude": -73.97839676
+    },
+    "523": {
+        "ID": 3366,
+        "NAME": "West End Ave & W 107 St",
+        "longitude": -73.9681805305
+    },
+    "524": {
+        "ID": 3367,
+        "NAME": "5 Ave & E 103 St",
+        "longitude": -73.95249933
+    },
+    "525": {
+        "ID": 3368,
+        "NAME": "5 Ave & 3 St",
+        "longitude": -73.98352355
+    },
+    "526": {
+        "ID": 3369,
+        "NAME": "E 82 St & East End Ave",
+        "longitude": -73.9468208
+    },
+    "527": {
+        "ID": 3370,
+        "NAME": "E 78 St & 2 Ave",
+        "longitude": -73.95577801
+    },
+    "528": {
+        "ID": 3372,
+        "NAME": "E 74 St & 1 Ave",
+        "longitude": -73.95482273
+    },
+    "529": {
+        "ID": 3373,
+        "NAME": "3 St & 3 Ave",
+        "longitude": -73.98775226
+    },
+    "530": {
+        "ID": 3374,
+        "NAME": "Central Park North & Adam Clayton Powell Blvd",
+        "longitude": -73.955613
+    },
+    "531": {
+        "ID": 3375,
+        "NAME": "3 Ave & E 72 St",
+        "longitude": -73.96060712
+    },
+    "532": {
+        "ID": 3376,
+        "NAME": "E 65 St & 2 Ave",
+        "longitude": -73.96222069859505
+    },
+    "533": {
+        "ID": 3377,
+        "NAME": "Carroll St & Bond St",
+        "longitude": -73.99037292
+    },
+    "534": {
+        "ID": 3378,
+        "NAME": "E 76 St & Park Ave",
+        "longitude": -73.96222088
+    },
+    "535": {
+        "ID": 3379,
+        "NAME": "E 103 St & Lexington Ave",
+        "longitude": -73.94755757
+    },
+    "536": {
+        "ID": 3381,
+        "NAME": "3 St & Hoyt St",
+        "longitude": -73.99364123
+    },
+    "537": {
+        "ID": 3382,
+        "NAME": "Carroll St & Smith St",
+        "longitude": -73.99475825
+    },
+    "538": {
+        "ID": 3383,
+        "NAME": "Cathedral Pkwy & Broadway",
+        "longitude": -73.96699104
+    },
+    "539": {
+        "ID": 3384,
+        "NAME": "Smith St & 3 St",
+        "longitude": -73.99599099
+    },
+    "540": {
+        "ID": 3386,
+        "NAME": "1 Pl & Clinton St",
+        "longitude": -73.99905709
+    },
+    "541": {
+        "ID": 3387,
+        "NAME": "E 106 St & Madison Ave",
+        "longitude": -73.94945003
+    },
+    "542": {
+        "ID": 3388,
+        "NAME": "President St & Henry St",
+        "longitude": -73.99990419
+    },
+    "543": {
+        "ID": 3389,
+        "NAME": "Carroll St & Columbia St",
+        "longitude": -74.00348559
+    },
+    "544": {
+        "ID": 3390,
+        "NAME": "E 109 St & 3 Ave",
+        "longitude": -73.9432083
+    },
+    "545": {
+        "ID": 3391,
+        "NAME": "E 106 St & 1 Ave",
+        "longitude": -73.93956237
+    },
+    "546": {
+        "ID": 3392,
+        "NAME": "Commerce St & Van Brunt St",
+        "longitude": -74.00860912
+    },
+    "547": {
+        "ID": 3393,
+        "NAME": "Richards St & Delavan St",
+        "longitude": -74.00785041
+    },
+    "548": {
+        "ID": 3394,
+        "NAME": "Columbia St & W 9 St",
+        "longitude": -74.00647134
+    },
+    "549": {
+        "ID": 3395,
+        "NAME": "Henry St & W 9 St",
+        "longitude": -74.00324957
+    },
+    "550": {
+        "ID": 3396,
+        "NAME": "Clinton St & 4 Place",
+        "longitude": -74.00014502
+    },
+    "551": {
+        "ID": 3397,
+        "NAME": "Court St & Nelson St",
+        "longitude": -73.99869893
+    },
+    "552": {
+        "ID": 3398,
+        "NAME": "Smith St & 9 St",
+        "longitude": -73.99785768
+    },
+    "553": {
+        "ID": 3399,
+        "NAME": "7 St & 3 Ave",
+        "longitude": -73.98983001708984
+    },
+    "554": {
+        "ID": 3400,
+        "NAME": "E 110 St & Madison Ave",
+        "longitude": -73.94782145
+    },
+    "555": {
+        "ID": 3402,
+        "NAME": "Court St & State St",
+        "longitude": -73.99203074
+    },
+    "556": {
+        "ID": 3403,
+        "NAME": "4 Ave & 9 St",
+        "longitude": -73.98876585
+    },
+    "557": {
+        "ID": 3404,
+        "NAME": "7 St & 5 Ave",
+        "longitude": -73.98541675
+    },
+    "558": {
+        "ID": 3405,
+        "NAME": "5 St & 6 Ave",
+        "longitude": -73.98208968
+    },
+    "559": {
+        "ID": 3407,
+        "NAME": "Union St & Nevins St",
+        "longitude": -73.98765474557877
+    },
+    "560": {
+        "ID": 3408,
+        "NAME": "Congress St & Clinton St",
+        "longitude": -73.99520919
+    },
+    "561": {
+        "ID": 3409,
+        "NAME": "Bergen St & Smith St",
+        "longitude": -73.99063168
+    },
+    "562": {
+        "ID": 3410,
+        "NAME": "Dean St & Hoyt St",
+        "longitude": -73.98759104
+    },
+    "563": {
+        "ID": 3411,
+        "NAME": "Bond St & Bergen St",
+        "longitude": -73.98620772
+    },
+    "564": {
+        "ID": 3412,
+        "NAME": "Pacific St & Nevins St",
+        "longitude": -73.98302136
+    },
+    "565": {
+        "ID": 3414,
+        "NAME": "Bergen St & Flatbush Ave",
+        "longitude": -73.97567331790923
+    },
+    "566": {
+        "ID": 3415,
+        "NAME": "Prospect Pl & 6 Ave",
+        "longitude": -73.97519523
+    },
+    "567": {
+        "ID": 3416,
+        "NAME": "7 Ave & Park Pl",
+        "longitude": -73.97324283
+    },
+    "568": {
+        "ID": 3417,
+        "NAME": "Baltic St & 5 Ave",
+        "longitude": -73.97854971
+    },
+    "569": {
+        "ID": 3418,
+        "NAME": "Plaza St West & Flatbush Ave",
+        "longitude": -73.97111473
+    },
+    "570": {
+        "ID": 3419,
+        "NAME": "Douglass St & 4 Ave",
+        "longitude": -73.98154004
+    },
+    "571": {
+        "ID": 3420,
+        "NAME": "Douglass St & 3 Ave",
+        "longitude": -73.98432695
+    },
+    "572": {
+        "ID": 3421,
+        "NAME": "Hoyt St & Warren St",
+        "longitude": -73.98901629
+    },
+    "573": {
+        "ID": 3422,
+        "NAME": "Columbia St & Degraw St",
+        "longitude": -74.00242364
+    },
+    "574": {
+        "ID": 3423,
+        "NAME": "West Drive & Prospect Park West",
+        "longitude": -73.97945255041121
+    },
+    "575": {
+        "ID": 3424,
+        "NAME": "E 106 St & Lexington Ave",
+        "longitude": -73.945993
+    },
+    "576": {
+        "ID": 3425,
+        "NAME": "2 Ave & E 104 St",
+        "longitude": -73.94370784
+    },
+    "577": {
+        "ID": 3429,
+        "NAME": "Hanson Pl & Ashland Pl",
+        "longitude": -73.97790759801863
+    },
+    "578": {
+        "ID": 3430,
+        "NAME": "Richardson St & N Henry St",
+        "longitude": -73.94223690032959
+    },
+    "579": {
+        "ID": 3435,
+        "NAME": "Grand St & Elizabeth St",
+        "longitude": -73.99596
+    },
+    "580": {
+        "ID": 3437,
+        "NAME": "Riverside Dr & W 91 St",
+        "longitude": -73.97700369358063
+    },
+    "581": {
+        "ID": 3440,
+        "NAME": "Fulton St & Adams St",
+        "longitude": -73.98949474096298
+    },
+    "582": {
+        "ID": 3443,
+        "NAME": "W 52 St & 6 Ave",
+        "longitude": -73.97982001304626
+    },
+    "583": {
+        "ID": 3452,
+        "NAME": "Bayard St & Leonard St",
+        "longitude": -73.94885390996933
+    },
+    "584": {
+        "ID": 3453,
+        "NAME": "Devoe St & Lorimer St",
+        "longitude": -73.9491033554077
+    },
+    "585": {
+        "ID": 3454,
+        "NAME": "Leonard St & Maujer St",
+        "longitude": -73.94705951213838
+    },
+    "586": {
+        "ID": 3456,
+        "NAME": "Jackson St & Leonard St",
+        "longitude": -73.94821286201476
+    },
+    "587": {
+        "ID": 3457,
+        "NAME": "E 58 St & Madison Ave",
+        "longitude": -73.97209525108337
+    },
+    "588": {
+        "ID": 3461,
+        "NAME": "Murray St & Greenwich St",
+        "longitude": -74.01122331619263
+    },
+    "589": {
+        "ID": 3463,
+        "NAME": "E 16 St & Irving Pl",
+        "longitude": -73.98797392845155
+    },
+    "590": {
+        "ID": 3467,
+        "NAME": "W Broadway & Spring St",
+        "longitude": -74.00165855884552
+    },
+    "591": {
+        "ID": 3469,
+        "NAME": "India St & West St",
+        "longitude": -73.95995020866394
+    },
+    "592": {
+        "ID": 3472,
+        "NAME": "W 15 St & 10 Ave",
+        "longitude": -74.00747358798982
+    },
+    "593": {
+        "ID": 3477,
+        "NAME": "39 St & 2 Ave",
+        "longitude": -74.0106278657913
+    },
+    "594": {
+        "ID": 3478,
+        "NAME": "2 Ave & 36 St",
+        "longitude": -74.00870203971863
+    },
+    "595": {
+        "ID": 3481,
+        "NAME": "York St",
+        "longitude": -74.04105
+    },
+    "596": {
+        "ID": 3483,
+        "NAME": "Montgomery St",
+        "longitude": -74.05099
+    },
+    "597": {
+        "ID": 3486,
+        "NAME": "Schermerhorn St & Bond St",
+        "longitude": -73.98451656103134
+    },
+    "598": {
+        "ID": 3490,
+        "NAME": "E 116 St & 2 Ave",
+        "longitude": -73.93726099999999
+    },
+    "599": {
+        "ID": 3491,
+        "NAME": "E 118 St & 1 Ave",
+        "longitude": -73.93504
+    },
+    "600": {
+        "ID": 3492,
+        "NAME": "E 118 St & Park Ave",
+        "longitude": -73.9419949
+    },
+    "601": {
+        "ID": 3493,
+        "NAME": "E 118 St & 3 Ave",
+        "longitude": -73.9389152
+    },
+    "602": {
+        "ID": 3494,
+        "NAME": "E 115 St & Lexington Ave",
+        "longitude": -73.9423
+    },
+    "603": {
+        "ID": 3495,
+        "NAME": "E 114 St & 1 Ave",
+        "longitude": -73.9362541
+    },
+    "604": {
+        "ID": 3496,
+        "NAME": "1 Ave & E 110 St",
+        "longitude": -73.9383
+    },
+    "605": {
+        "ID": 3497,
+        "NAME": "Pleasant Ave & E 116 St",
+        "longitude": -73.9333349
+    },
+    "606": {
+        "ID": 3498,
+        "NAME": "Pleasant Ave & E 120 St",
+        "longitude": -73.9311847
+    },
+    "607": {
+        "ID": 3499,
+        "NAME": "2 Ave & E 122 St",
+        "longitude": -73.9349
+    },
+    "608": {
+        "ID": 3500,
+        "NAME": "E 115 St & Madison Ave",
+        "longitude": -73.944846
+    },
+    "609": {
+        "ID": 3501,
+        "NAME": "E 118 St & Madison Ave",
+        "longitude": -73.9442507
+    },
+    "610": {
+        "ID": 3502,
+        "NAME": "Lexington Ave & E 111 St",
+        "longitude": -73.9441232
+    },
+    "611": {
+        "ID": 3503,
+        "NAME": "Madison Ave & E 120 St",
+        "longitude": -73.942954
+    },
+    "612": {
+        "ID": 3504,
+        "NAME": "E 123 St & Lexington Ave",
+        "longitude": -73.9379
+    },
+    "613": {
+        "ID": 3505,
+        "NAME": "Lexington Ave & E 127 St",
+        "longitude": -73.936322
+    },
+    "614": {
+        "ID": 3506,
+        "NAME": "Lexington Ave & E 120 St",
+        "longitude": -73.93981670000001
+    },
+    "615": {
+        "ID": 3507,
+        "NAME": "Park Ave & E 124 St",
+        "longitude": -73.93968609999999
+    },
+    "616": {
+        "ID": 3508,
+        "NAME": "St Nicholas Ave & Manhattan Ave",
+        "longitude": -73.953149
+    },
+    "617": {
+        "ID": 3509,
+        "NAME": "Lenox Ave & W 115 St",
+        "longitude": -73.9500739
+    },
+    "618": {
+        "ID": 3510,
+        "NAME": "Adam Clayton Powell Blvd & W 123 St",
+        "longitude": -73.949373
+    },
+    "619": {
+        "ID": 3511,
+        "NAME": "Adam Clayton Powell Blvd & W 115 St",
+        "longitude": -73.9532423
+    },
+    "620": {
+        "ID": 3513,
+        "NAME": "21 St & Hoyt Ave S",
+        "longitude": -73.92370600000001
+    },
+    "621": {
+        "ID": 3514,
+        "NAME": "Astoria Park S & Shore Blvd",
+        "longitude": -73.927631
+    },
+    "622": {
+        "ID": 3515,
+        "NAME": "24 Ave & 26 St",
+        "longitude": -73.918544
+    },
+    "623": {
+        "ID": 3516,
+        "NAME": "31 St & Astoria Blvd",
+        "longitude": -73.91840570000001
+    },
+    "624": {
+        "ID": 3517,
+        "NAME": "31 St & Hoyt Ave N",
+        "longitude": -73.9170074
+    },
+    "625": {
+        "ID": 3518,
+        "NAME": "Lenox Ave & W 126 St",
+        "longitude": -73.94520870000001
+    },
+    "626": {
+        "ID": 3520,
+        "NAME": "Adam Clayton Powell Blvd & W 118 St",
+        "longitude": -73.951475
+    },
+    "627": {
+        "ID": 3521,
+        "NAME": "Lenox Ave & W 111 St",
+        "longitude": -73.9523
+    },
+    "628": {
+        "ID": 3522,
+        "NAME": "37 St & 24 Ave",
+        "longitude": -73.9120938
+    },
+    "629": {
+        "ID": 3523,
+        "NAME": "24 Ave & 29 St",
+        "longitude": -73.91614200000001
+    },
+    "630": {
+        "ID": 3524,
+        "NAME": "19 St & 24 Ave",
+        "longitude": -73.9225403
+    },
+    "631": {
+        "ID": 3525,
+        "NAME": "23 Ave & 27 St",
+        "longitude": -73.9153175
+    },
+    "632": {
+        "ID": 3526,
+        "NAME": "31 St & 23 Ave",
+        "longitude": -73.91255509999999
+    },
+    "633": {
+        "ID": 3527,
+        "NAME": "5 Ave & E 126 St",
+        "longitude": -73.94174699999999
+    },
+    "634": {
+        "ID": 3528,
+        "NAME": "Steinway St & 23 Ave",
+        "longitude": -73.9077436
+    },
+    "635": {
+        "ID": 3529,
+        "NAME": "Lenox Ave & W 130 St",
+        "longitude": -73.9430681
+    },
+    "636": {
+        "ID": 3530,
+        "NAME": "Crescent St & Ditmars Blvd",
+        "longitude": -73.9145645
+    },
+    "637": {
+        "ID": 3531,
+        "NAME": "Frederick Douglass Blvd & W 129 St",
+        "longitude": -73.9492286
+    },
+    "638": {
+        "ID": 3532,
+        "NAME": "Ditmars Blvd & 19 St",
+        "longitude": -73.9183302
+    },
+    "639": {
+        "ID": 3533,
+        "NAME": "St. Nicholas Ave & W 126 St",
+        "longitude": -73.95187759999999
+    },
+    "640": {
+        "ID": 3534,
+        "NAME": "Frederick Douglass Blvd & W 117 St",
+        "longitude": -73.95469200000001
+    },
+    "641": {
+        "ID": 3535,
+        "NAME": "Mt Morris Park W & W 120 St",
+        "longitude": -73.945925
+    },
+    "642": {
+        "ID": 3536,
+        "NAME": "W 116 St & Broadway",
+        "longitude": -73.9641
+    },
+    "643": {
+        "ID": 3537,
+        "NAME": "Carlton Ave & Dean St",
+        "longitude": -73.97100970000001
+    },
+    "644": {
+        "ID": 3538,
+        "NAME": "W 110 St & Amsterdam Ave",
+        "longitude": -73.96295
+    },
+    "645": {
+        "ID": 3539,
+        "NAME": "W 116 St & Amsterdam Ave",
+        "longitude": -73.9607082
+    },
+    "646": {
+        "ID": 3540,
+        "NAME": "Morningside Ave & W 123 St",
+        "longitude": -73.9551508
+    },
+    "647": {
+        "ID": 3541,
+        "NAME": "Amsterdam Ave & W 125 St",
+        "longitude": -73.956461
+    },
+    "648": {
+        "ID": 3542,
+        "NAME": "Amsterdam Ave & W 119 St",
+        "longitude": -73.9596214
+    },
+    "649": {
+        "ID": 3543,
+        "NAME": "Morningside Dr & Amsterdam Ave",
+        "longitude": -73.95736455917357
+    },
+    "650": {
+        "ID": 3544,
+        "NAME": "Underhill Ave & Pacific St",
+        "longitude": -73.9646795
+    },
+    "651": {
+        "ID": 3545,
+        "NAME": "Broadway & W 122 St",
+        "longitude": -73.9612547
+    },
+    "652": {
+        "ID": 3546,
+        "NAME": "Pacific St & Classon Ave",
+        "longitude": -73.95879029999999
+    },
+    "653": {
+        "ID": 3547,
+        "NAME": "Broadway & Moylan Pl",
+        "longitude": -73.9590255
+    },
+    "654": {
+        "ID": 3549,
+        "NAME": "Grand Ave & Bergen St",
+        "longitude": -73.962408
+    },
+    "655": {
+        "ID": 3551,
+        "NAME": "3 Ave & E 112 St",
+        "longitude": -73.94160600000001
+    },
+    "656": {
+        "ID": 3552,
+        "NAME": "W 113 St & Broadway",
+        "longitude": -73.964928
+    },
+    "657": {
+        "ID": 3553,
+        "NAME": "Frederick Douglass Blvd & W 112 St",
+        "longitude": -73.957145
+    },
+    "658": {
+        "ID": 3554,
+        "NAME": "Vernon Blvd & 41 Rd",
+        "longitude": -73.94856779999999
+    },
+    "659": {
+        "ID": 3555,
+        "NAME": "28 St & 41 Ave",
+        "longitude": -73.93796999999999
+    },
+    "660": {
+        "ID": 3557,
+        "NAME": "40 Ave & 9 St",
+        "longitude": -73.945133
+    },
+    "661": {
+        "ID": 3558,
+        "NAME": "Bergen St & Vanderbilt Ave",
+        "longitude": -73.96804379999999
+    },
+    "662": {
+        "ID": 3559,
+        "NAME": "21 St & 38 Ave",
+        "longitude": -73.9391224
+    },
+    "663": {
+        "ID": 3561,
+        "NAME": "37 Ave & 35 St",
+        "longitude": -73.9279917
+    },
+    "664": {
+        "ID": 3562,
+        "NAME": "Classon Ave & St Marks Ave",
+        "longitude": -73.9596082
+    },
+    "665": {
+        "ID": 3563,
+        "NAME": "28 St & 36 Ave",
+        "longitude": -73.93271899999999
+    },
+    "666": {
+        "ID": 3564,
+        "NAME": "21 St & 36 Ave",
+        "longitude": -73.9362726
+    },
+    "667": {
+        "ID": 3565,
+        "NAME": "36 Ave & 10 St",
+        "longitude": -73.9411265
+    },
+    "668": {
+        "ID": 3566,
+        "NAME": "Crescent St & 35 Ave",
+        "longitude": -73.93214549999999
+    },
+    "669": {
+        "ID": 3567,
+        "NAME": "11 St & 35 Ave",
+        "longitude": -73.9391141
+    },
+    "670": {
+        "ID": 3568,
+        "NAME": "34 St & 35 Ave",
+        "longitude": -73.92622309999999
+    },
+    "671": {
+        "ID": 3569,
+        "NAME": "Franklin Ave & St Marks Ave",
+        "longitude": -73.95616770000001
+    },
+    "672": {
+        "ID": 3570,
+        "NAME": "35 Ave & 37 St",
+        "longitude": -73.92366109999999
+    },
+    "673": {
+        "ID": 3571,
+        "NAME": "Bedford Ave & Bergen St",
+        "longitude": -73.95291800000001
+    },
+    "674": {
+        "ID": 3572,
+        "NAME": "34 Ave & 38 St",
+        "longitude": -73.921631
+    },
+    "675": {
+        "ID": 3573,
+        "NAME": "35 St & 34 Ave",
+        "longitude": -73.92427509999999
+    },
+    "676": {
+        "ID": 3574,
+        "NAME": "Prospect Pl & Underhill Ave",
+        "longitude": -73.96579
+    },
+    "677": {
+        "ID": 3575,
+        "NAME": "Crescent St & 34 Ave",
+        "longitude": -73.930562
+    },
+    "678": {
+        "ID": 3576,
+        "NAME": "Park Pl & Vanderbilt Ave",
+        "longitude": -73.969024
+    },
+    "679": {
+        "ID": 3577,
+        "NAME": "34 Ave & 21 St",
+        "longitude": -73.9342862
+    },
+    "680": {
+        "ID": 3578,
+        "NAME": "Park Pl & Franklin Ave",
+        "longitude": -73.95649470000001
+    },
+    "681": {
+        "ID": 3579,
+        "NAME": "Sterling Pl & Bedford Ave",
+        "longitude": -73.954131
+    },
+    "682": {
+        "ID": 3580,
+        "NAME": "St Johns Pl & Washington Ave",
+        "longitude": -73.9631611
+    },
+    "683": {
+        "ID": 3581,
+        "NAME": "Underhill Ave & Lincoln Pl",
+        "longitude": -73.9671457
+    },
+    "684": {
+        "ID": 3582,
+        "NAME": "Lincoln Pl & Classon Ave",
+        "longitude": -73.9609
+    },
+    "685": {
+        "ID": 3583,
+        "NAME": "Eastern Pkwy & Washington Ave",
+        "longitude": -73.9631145
+    },
+    "686": {
+        "ID": 3584,
+        "NAME": "Eastern Pkwy & Franklin Ave",
+        "longitude": -73.9576801
+    },
+    "687": {
+        "ID": 3585,
+        "NAME": "Union St & Bedford Ave",
+        "longitude": -73.9554162
+    },
+    "688": {
+        "ID": 3586,
+        "NAME": "34 Ave & 13 St",
+        "longitude": -73.9364848
+    },
+    "689": {
+        "ID": 3587,
+        "NAME": "Carroll St & Washington Ave",
+        "longitude": -73.9618148
+    },
+    "690": {
+        "ID": 3588,
+        "NAME": "Vernon Blvd & 10 St",
+        "longitude": -73.9373554
+    },
+    "691": {
+        "ID": 3589,
+        "NAME": "Broadway & 12 St",
+        "longitude": -73.93477740000002
+    },
+    "692": {
+        "ID": 3590,
+        "NAME": "Carroll St & Franklin Ave",
+        "longitude": -73.9588
+    },
+    "693": {
+        "ID": 3591,
+        "NAME": "21 St & 31 Dr",
+        "longitude": -73.930819
+    },
+    "694": {
+        "ID": 3592,
+        "NAME": "Crescent St & Broadway",
+        "longitude": -73.92864709999999
+    },
+    "695": {
+        "ID": 3593,
+        "NAME": "31 St & Broadway",
+        "longitude": -73.925921
+    },
+    "696": {
+        "ID": 3595,
+        "NAME": "35 St & Broadway",
+        "longitude": -73.9222427
+    },
+    "697": {
+        "ID": 3596,
+        "NAME": "Sullivan Pl & Bedford Ave",
+        "longitude": -73.9574686
+    },
+    "698": {
+        "ID": 3597,
+        "NAME": "43 St & Broadway",
+        "longitude": -73.9166368
+    },
+    "699": {
+        "ID": 3598,
+        "NAME": "Newton Rd & 44 St",
+        "longitude": -73.91426779999999
+    },
+    "700": {
+        "ID": 3599,
+        "NAME": "Franklin Ave & Empire Blvd",
+        "longitude": -73.96056949999999
+    },
+    "701": {
+        "ID": 3600,
+        "NAME": "31 Ave & Steinway St",
+        "longitude": -73.9170071
+    },
+    "702": {
+        "ID": 3601,
+        "NAME": "Sterling St & Bedford Ave",
+        "longitude": -73.9569115
+    },
+    "703": {
+        "ID": 3602,
+        "NAME": "31 Ave & 34 St",
+        "longitude": -73.920827
+    },
+    "704": {
+        "ID": 3603,
+        "NAME": "31 Ave & 30 St",
+        "longitude": -73.9240312
+    },
+    "705": {
+        "ID": 3604,
+        "NAME": "Rogers Ave & Sterling St",
+        "longitude": -73.95387459999999
+    },
+    "706": {
+        "ID": 3605,
+        "NAME": "31 Ave & Crescent St",
+        "longitude": -73.9265474
+    },
+    "707": {
+        "ID": 3606,
+        "NAME": "49 Ave & 21 St",
+        "longitude": -73.948852
+    },
+    "708": {
+        "ID": 3607,
+        "NAME": "31 Ave & 14 St",
+        "longitude": -73.9322662
+    },
+    "709": {
+        "ID": 3608,
+        "NAME": "5 St & 51 Ave",
+        "longitude": -73.9566
+    },
+    "710": {
+        "ID": 3609,
+        "NAME": "Vernon Blvd & 31 Ave",
+        "longitude": -73.93545040000001
+    },
+    "711": {
+        "ID": 3610,
+        "NAME": "Vernon Blvd & 30 Rd",
+        "longitude": -73.93417099999999
+    },
+    "712": {
+        "ID": 3611,
+        "NAME": "Vernon Blvd & 47 Rd",
+        "longitude": -73.9534573
+    },
+    "713": {
+        "ID": 3612,
+        "NAME": "30 Ave & 21 St",
+        "longitude": -73.9286078
+    },
+    "714": {
+        "ID": 3613,
+        "NAME": "Center Blvd & 48 Ave",
+        "longitude": -73.957539
+    },
+    "715": {
+        "ID": 3614,
+        "NAME": "Crescent St & 30 Ave",
+        "longitude": -73.9249574
+    },
+    "716": {
+        "ID": 3615,
+        "NAME": "44 Dr & 21 St",
+        "longitude": -73.94609270000001
+    },
+    "717": {
+        "ID": 3616,
+        "NAME": "Steinway St & 28 Ave",
+        "longitude": -73.9136695
+    },
+    "718": {
+        "ID": 3617,
+        "NAME": "28 Ave & 35 St",
+        "longitude": -73.9169858
+    },
+    "719": {
+        "ID": 3618,
+        "NAME": "27 St & Hunter St",
+        "longitude": -73.941275
+    },
+    "720": {
+        "ID": 3619,
+        "NAME": "Newtown Ave & 23 St",
+        "longitude": -73.9246145
+    },
+    "721": {
+        "ID": 3620,
+        "NAME": "11 St & 43 Ave",
+        "longitude": -73.94791190000001
+    },
+    "722": {
+        "ID": 3621,
+        "NAME": "27 Ave & 9 St",
+        "longitude": -73.93091340000001
+    },
+    "723": {
+        "ID": 3622,
+        "NAME": "E 128 St & Madison Ave",
+        "longitude": -73.93918199999999
+    },
+    "724": {
+        "ID": 3623,
+        "NAME": "W 120 St & Claremont Ave",
+        "longitude": -73.9634
+    },
+    "725": {
+        "ID": 3628,
+        "NAME": "Lenox Ave & W 117 St",
+        "longitude": -73.9490782
+    },
+    "726": {
+        "ID": 3629,
+        "NAME": "Adam Clayton Powell Blvd & W 126 St",
+        "longitude": -73.94776493310928
+    },
+    "727": {
+        "ID": 3630,
+        "NAME": "Frederick Douglass Blvd & W 115 St",
+        "longitude": -73.95593079999999
+    },
+    "728": {
+        "ID": 3637,
+        "NAME": "Fulton St & Waverly Ave",
+        "longitude": -73.96599590778352
+    },
+    "729": {
+        "ID": 3638,
+        "NAME": "Washington St",
+        "longitude": -74.0354826
+    },
+    "730": {
+        "ID": 3639,
+        "NAME": "Harborside",
+        "longitude": -74.034234
+    },
+    "731": {
+        "ID": 3640,
+        "NAME": "Journal Square",
+        "longitude": -74.0625
+    },
+    "732": {
+        "ID": 3641,
+        "NAME": "Broadway & W 25 St",
+        "longitude": -73.98918628692627
+    },
+    "733": {
+        "ID": 3646,
+        "NAME": "35 Ave & 10 St",
+        "longitude": -73.93985509872438
+    },
+    "734": {
+        "ID": 3647,
+        "NAME": "48 Ave & 30 Pl",
+        "longitude": -73.93725872039794
+    },
+    "735": {
+        "ID": 3648,
+        "NAME": "Flushing Ave & Vanderbilt Ave",
+        "longitude": -73.97077560424805
+    },
+    "736": {
+        "ID": 3649,
+        "NAME": "W 129 St & Convent Ave",
+        "longitude": -73.95324736833571
+    },
+    "737": {
+        "ID": 3654,
+        "NAME": "31 St & Northern Blvd",
+        "longitude": -73.93349289894103
+    },
+    "738": {
+        "ID": 3656,
+        "NAME": "E 2 St & Avenue A",
+        "longitude": -73.98583620786667
+    },
+    "739": {
+        "ID": 3658,
+        "NAME": "W 18 St & 9 Ave",
+        "longitude": -74.00367558002472
+    },
+    "740": {
+        "ID": 3661,
+        "NAME": "Montgomery St & Franklin Ave",
+        "longitude": -73.96055638790129
+    },
+    "741": {
+        "ID": 3664,
+        "NAME": "North Moore St & Greenwich St",
+        "longitude": -74.0103006362915
+    },
+    "742": {
+        "ID": 3668,
+        "NAME": "Leonard St & Nassau Ave",
+        "longitude": -73.94984364509583
+    },
+    "743": {
+        "ID": 3671,
+        "NAME": "E 81 St & 2 Ave",
+        "longitude": -73.95427465438844
+    },
+    "744": {
+        "ID": 3673,
+        "NAME": "Dean St & Franklin Ave",
+        "longitude": -73.95563721656801
+    },
+    "745": {
+        "ID": 3674,
+        "NAME": "Jay St & York St",
+        "longitude": -73.98672670125961
+    },
+    "746": {
+        "ID": 3676,
+        "NAME": "Van Brunt St & Van Dyke St",
+        "longitude": -74.01472628116608
+    },
+    "747": {
+        "ID": 3677,
+        "NAME": "Glenwood Ave",
+        "longitude": -74.07106071710588
+    },
+    "748": {
+        "ID": 3678,
+        "NAME": "Fairmount Ave",
+        "longitude": -74.07195925712584
+    },
+    "749": {
+        "ID": 3679,
+        "NAME": "Bergen Ave",
+        "longitude": -74.07145500183104
+    },
+    "750": {
+        "ID": 3680,
+        "NAME": "E 43 St & 5 Ave",
+        "longitude": -73.98025184869765
+    },
+    "751": {
+        "ID": 3681,
+        "NAME": "Grand St",
+        "longitude": -74.03768330812454
+    },
+    "752": {
+        "ID": 3686,
+        "NAME": "Gansevoort St & Hudson St",
+        "longitude": -74.00507032871245
+    },
+    "753": {
+        "ID": 3687,
+        "NAME": "E 33 St & 1 Ave",
+        "longitude": -73.97449783980845
+    },
+    "754": {
+        "ID": 3689,
+        "NAME": "W 104 St & Amsterdam Ave",
+        "longitude": -73.96649479866028
+    },
+    "755": {
+        "ID": 3690,
+        "NAME": "Park Pl & Church St",
+        "longitude": -74.00935515761375
+    },
+    "756": {
+        "ID": 3691,
+        "NAME": "28 Ave & 44 St",
+        "longitude": -73.9106512069702
+    },
+    "757": {
+        "ID": 3693,
+        "NAME": "N 11 St & Kent Ave",
+        "longitude": -73.95921930670737
+    },
+    "758": {
+        "ID": 3694,
+        "NAME": "Jackson Square",
+        "longitude": -74.0789
+    },
+    "759": {
+        "ID": 3697,
+        "NAME": "W 64 St & Thelonious Monk Circle",
+        "longitude": -73.98918695747851
+    },
+    "760": {
+        "ID": 3699,
+        "NAME": "W 50 St & 9 Ave",
+        "longitude": -73.98917958140373
+    },
+    "761": {
+        "ID": 3704,
+        "NAME": "47 Ave & Skillman Ave",
+        "longitude": -73.94176483154297
+    },
+    "762": {
+        "ID": 3707,
+        "NAME": "Lexington Ave & E 26 St",
+        "longitude": -73.983293
+    },
+    "763": {
+        "ID": 3708,
+        "NAME": "W 13 St & 5 Ave",
+        "longitude": -73.99431
+    },
+    "764": {
+        "ID": 3709,
+        "NAME": "W 15 St & 6 Ave",
+        "longitude": -73.99642959237099
+    },
+    "765": {
+        "ID": 3711,
+        "NAME": "E 13 St & Avenue A",
+        "longitude": -73.98067966103555
+    },
+    "766": {
+        "ID": 3712,
+        "NAME": "W 35 St & Dyer Ave",
+        "longitude": -73.9974018931389
+    },
+    "767": {
+        "ID": 3714,
+        "NAME": "Division Ave & Hooper St",
+        "longitude": -73.9544353965357
+    },
+    "768": {
+        "ID": 3715,
+        "NAME": "Driggs Ave & N 9 St",
+        "longitude": -73.95520135760306
+    },
+    "769": {
+        "ID": 3716,
+        "NAME": "40 Ave & Crescent St",
+        "longitude": -73.9379560947418
+    },
+    "770": {
+        "ID": 3718,
+        "NAME": "E 11 St & Avenue B",
+        "longitude": -73.97950418293476
+    },
+    "771": {
+        "ID": 3721,
+        "NAME": "31 St & Newtown Ave",
+        "longitude": -73.92093345522879
+    },
+    "772": {
+        "ID": 3723,
+        "NAME": "Cadman Plaza E & Johnson St",
+        "longitude": -73.99015724658966
+    },
+    "773": {
+        "ID": 3724,
+        "NAME": "7 Ave & Central Park South",
+        "longitude": -73.9790689945221
+    },
+    "774": {
+        "ID": 3725,
+        "NAME": "2 Ave & E 72 St",
+        "longitude": -73.95840793848038
+    },
+    "775": {
+        "ID": 3726,
+        "NAME": "Center Blvd & 51 Ave",
+        "longitude": -73.95960688591003
+    },
+    "776": {
+        "ID": 3727,
+        "NAME": "Frost St & Meeker Ave",
+        "longitude": -73.94880026578903
+    },
+    "777": {
+        "ID": 3728,
+        "NAME": "Pierrepont St & Monroe Pl",
+        "longitude": -73.99344027042389
+    },
+    "778": {
+        "ID": 3731,
+        "NAME": "W 47 St & 6 Ave",
+        "longitude": -73.98255
+    },
+    "779": {
+        "ID": 3733,
+        "NAME": "Avenue C & E 18 St",
+        "longitude": -73.973984
+    },
+    "780": {
+        "ID": 3734,
+        "NAME": "E 58 St &  1 Ave (NW Corner)",
+        "longitude": -73.96265799999999
+    },
+    "781": {
+        "ID": 3735,
+        "NAME": "W 30 St & 10 Ave",
+        "longitude": -74.002353
+    },
+    "782": {
+        "ID": 3736,
+        "NAME": "E 12 St & Ave C",
+        "longitude": -73.976831
+    },
+    "783": {
+        "ID": 3737,
+        "NAME": "Stanton St & Norfolk St",
+        "longitude": -73.986274
+    },
+    "784": {
+        "ID": 3738,
+        "NAME": "Delancey St & Eldridge St",
+        "longitude": -73.991479
+    },
+    "785": {
+        "ID": 3739,
+        "NAME": "Perry St & Greenwich Ave",
+        "longitude": -74.000939
+    },
+    "786": {
+        "ID": 3740,
+        "NAME": "W Broadway & W Houston St",
+        "longitude": -74.000472
+    },
+    "787": {
+        "ID": 3744,
+        "NAME": "1 Ave & E 5 St",
+        "longitude": -73.986389
+    },
+    "788": {
+        "ID": 3745,
+        "NAME": "36 Ave & 31 St",
+        "longitude": -73.92957486212252
+    },
+    "789": {
+        "ID": 3746,
+        "NAME": "6 Ave & Broome St",
+        "longitude": -74.00473035871983
+    },
+    "790": {
+        "ID": 3749,
+        "NAME": "Lexington Ave & E 36 St",
+        "longitude": -73.97880077362059
+    },
+    "791": {
+        "ID": 3755,
+        "NAME": "DeKalb Ave & Franklin Ave",
+        "longitude": -73.95746178925037
+    },
+    "792": {
+        "ID": 3756,
+        "NAME": "White St & Moore St",
+        "longitude": -73.9351
+    },
+    "793": {
+        "ID": 3757,
+        "NAME": "Stagg St & Morgan Ave",
+        "longitude": -73.93372
+    },
+    "794": {
+        "ID": 3758,
+        "NAME": "George St & Wilson Ave",
+        "longitude": -73.92997
+    },
+    "795": {
+        "ID": 3759,
+        "NAME": "Irving Ave & Jefferson St",
+        "longitude": -73.92535
+    },
+    "796": {
+        "ID": 3760,
+        "NAME": "Willoughby Ave & Wyckoff Ave",
+        "longitude": -73.92153
+    },
+    "797": {
+        "ID": 3761,
+        "NAME": "Cedar St & Myrtle Ave",
+        "longitude": -73.926241
+    },
+    "798": {
+        "ID": 3762,
+        "NAME": "3 Ave & Carroll St",
+        "longitude": -73.9865
+    },
+    "799": {
+        "ID": 3763,
+        "NAME": "Wyckoff Av & Jefferson St",
+        "longitude": -73.923711
+    },
+    "800": {
+        "ID": 3764,
+        "NAME": "Bushwick Ave & McKibbin St",
+        "longitude": -73.93936
+    },
+    "801": {
+        "ID": 3765,
+        "NAME": "Bushwick Ave & Stagg St",
+        "longitude": -73.94008000000001
+    },
+    "802": {
+        "ID": 3766,
+        "NAME": "Sharon St & Olive St",
+        "longitude": -73.93856
+    },
+    "803": {
+        "ID": 3767,
+        "NAME": "Powers St & Olive St",
+        "longitude": -73.93894
+    },
+    "804": {
+        "ID": 3768,
+        "NAME": "Waterbury St & Stagg St",
+        "longitude": -73.93734
+    },
+    "805": {
+        "ID": 3769,
+        "NAME": "White St & Johnson Ave",
+        "longitude": -73.93581
+    },
+    "806": {
+        "ID": 3770,
+        "NAME": "Central Ave & Flushing Ave",
+        "longitude": -73.9333
+    },
+    "807": {
+        "ID": 3771,
+        "NAME": "McKibbin St & Bogart St",
+        "longitude": -73.933871
+    },
+    "808": {
+        "ID": 3772,
+        "NAME": "Devoe St & Morgan Ave",
+        "longitude": -73.93515
+    },
+    "809": {
+        "ID": 3773,
+        "NAME": "Knickerbocker Ave & Thames St",
+        "longitude": -73.92976
+    },
+    "810": {
+        "ID": 3774,
+        "NAME": "Knickerbocker Ave & George St",
+        "longitude": -73.92836
+    },
+    "811": {
+        "ID": 3775,
+        "NAME": "Suydam St & Knickerbocker Ave",
+        "longitude": -73.923769
+    },
+    "812": {
+        "ID": 3776,
+        "NAME": "Central Ave & Starr Street",
+        "longitude": -73.92834
+    },
+    "813": {
+        "ID": 3777,
+        "NAME": "Stockholm St & Wilson Ave",
+        "longitude": -73.92304399999999
+    },
+    "814": {
+        "ID": 3778,
+        "NAME": "Irving Ave & DeKalb Ave",
+        "longitude": -73.92095
+    },
+    "815": {
+        "ID": 3779,
+        "NAME": "Hart St & Wyckoff Ave",
+        "longitude": -73.919911
+    },
+    "816": {
+        "ID": 3780,
+        "NAME": "Wyckoff Av & Stanhope St",
+        "longitude": -73.917775
+    },
+    "817": {
+        "ID": 3781,
+        "NAME": "Greene Av & Myrtle Av",
+        "longitude": -73.918877
+    },
+    "818": {
+        "ID": 3782,
+        "NAME": "Brooklyn Bridge Park - Pier 2",
+        "longitude": -73.997178
+    },
+    "819": {
+        "ID": 3783,
+        "NAME": "Cliff St & Fulton St",
+        "longitude": -74.00495
+    },
+    "820": {
+        "ID": 3785,
+        "NAME": "W 42 St & 6 Ave",
+        "longitude": -73.98455
+    },
+    "821": {
+        "ID": 3786,
+        "NAME": "Division St & Bowery",
+        "longitude": -73.996732
+    },
+    "822": {
+        "ID": 3787,
+        "NAME": "Dock 72 Way & Market St",
+        "longitude": -73.97140999999999
+    },
+    "823": {
+        "ID": 3789,
+        "NAME": "Fulton St & Irving Pl",
+        "longitude": -73.95943199999999
+    },
+    "824": {
+        "ID": 3790,
+        "NAME": "Henry St & Middagh St",
+        "longitude": -73.99158100000001
+    },
+    "825": {
+        "ID": 3791,
+        "NAME": "Hoboken Ave at Monmouth St",
+        "longitude": -74.04696375131606
+    },
+    "826": {
+        "ID": 3792,
+        "NAME": "Columbus Dr at Exchange Pl",
+        "longitude": -74.03281
+    },
+    "827": {
+        "ID": 3795,
+        "NAME": "10 St & 2 Ave",
+        "longitude": -73.993612
+    },
+    "828": {
+        "ID": 3798,
+        "NAME": "W 40 St & 5 Ave",
+        "longitude": -73.982079
+    },
+    "829": {
+        "ID": 3799,
+        "NAME": "6 Ave & W 34 St",
+        "longitude": -73.98805
+    },
+    "830": {
+        "ID": 3803,
+        "NAME": "Bedford Ave & Montgomery St",
+        "longitude": -73.95693399999999
+    },
+    "831": {
+        "ID": 3804,
+        "NAME": "Front St & Jay St",
+        "longitude": -73.98684200000001
+    },
+    "832": {
+        "ID": 3808,
+        "NAME": "24 St & 41 Ave",
+        "longitude": -73.939991
+    },
+    "833": {
+        "ID": 3809,
+        "NAME": "W 55 St & 6 Ave",
+        "longitude": -73.978434
+    },
+    "834": {
+        "ID": 3811,
+        "NAME": "27 Ave & 3 St",
+        "longitude": -73.9342
+    },
+    "835": {
+        "ID": 3812,
+        "NAME": "University Pl & E 14 St",
+        "longitude": -73.992085
+    },
+    "836": {
+        "ID": 3814,
+        "NAME": "E 56 St & Madison Ave",
+        "longitude": -73.972628
+    },
+    "837": {
+        "ID": 3815,
+        "NAME": "E 51 St & 2 Ave",
+        "longitude": -73.967641
+    },
+    "838": {
+        "ID": 3816,
+        "NAME": "Metropolitan Ave & Vandervoort Ave",
+        "longitude": -73.93323000000001
+    },
+    "839": {
+        "ID": 3817,
+        "NAME": "Withers St & Kingsland Ave",
+        "longitude": -73.94051
+    },
+    "840": {
+        "ID": 3818,
+        "NAME": "Calyer St & Jewel St",
+        "longitude": -73.94839
+    },
+    "841": {
+        "ID": 3819,
+        "NAME": "Green St & McGuinness Blvd",
+        "longitude": -73.95204
+    },
+    "842": {
+        "ID": 3820,
+        "NAME": "Willoughby Ave & Myrtle Ave",
+        "longitude": -73.93098
+    },
+    "843": {
+        "ID": 3821,
+        "NAME": "Evergreen Ave & Noll St",
+        "longitude": -73.93318000000001
+    },
+    "844": {
+        "ID": 3822,
+        "NAME": "Bushwick Ave & Forrest St",
+        "longitude": -73.93641
+    },
+    "845": {
+        "ID": 3823,
+        "NAME": "Beaver St & Fayette St",
+        "longitude": -73.93921
+    },
+    "846": {
+        "ID": 3824,
+        "NAME": "Van Sinderen Ave & Truxton St",
+        "longitude": -73.90369
+    },
+    "847": {
+        "ID": 3825,
+        "NAME": "Broadway & Furman Ave",
+        "longitude": -73.90756
+    },
+    "848": {
+        "ID": 3826,
+        "NAME": "Moffat St & Bushwick",
+        "longitude": -73.90925
+    },
+    "849": {
+        "ID": 3827,
+        "NAME": "Halsey St & Broadway",
+        "longitude": -73.91564
+    },
+    "850": {
+        "ID": 3828,
+        "NAME": "Eldert St & Bushwick Ave",
+        "longitude": -73.91320999999999
+    },
+    "851": {
+        "ID": 3829,
+        "NAME": "Central Ave & Decatur St",
+        "longitude": -73.90798000000001
+    },
+    "852": {
+        "ID": 3830,
+        "NAME": "Halsey St & Evergreen Ave",
+        "longitude": -73.91226999999999
+    },
+    "853": {
+        "ID": 3831,
+        "NAME": "Broadway & Hancock St",
+        "longitude": -73.9168
+    },
+    "854": {
+        "ID": 3832,
+        "NAME": "Central Ave & Weirfield St",
+        "longitude": -73.91181
+    },
+    "855": {
+        "ID": 3833,
+        "NAME": "Madison St & Evergreen Ave",
+        "longitude": -73.91693000000001
+    },
+    "856": {
+        "ID": 3834,
+        "NAME": "Irving Ave & Halsey St",
+        "longitude": -73.90663
+    },
+    "857": {
+        "ID": 3835,
+        "NAME": "Knickerbocker Ave & Hancock St",
+        "longitude": -73.90974
+    },
+    "858": {
+        "ID": 3836,
+        "NAME": "Bushwick Ave & Linden St",
+        "longitude": -73.92146
+    },
+    "859": {
+        "ID": 3837,
+        "NAME": "Broadway & Kosciuszko St",
+        "longitude": -73.92851999999999
+    },
+    "860": {
+        "ID": 3838,
+        "NAME": "Bushwick Ave & Harman St",
+        "longitude": -73.92524
+    },
+    "861": {
+        "ID": 3839,
+        "NAME": "Putnam Ave & Knickerbocker Ave",
+        "longitude": -73.91164
+    },
+    "862": {
+        "ID": 3840,
+        "NAME": "Putnam Ave & Wyckoff Ave",
+        "longitude": -73.90904
+    },
+    "863": {
+        "ID": 3841,
+        "NAME": "Menahan St & Central Ave",
+        "longitude": -73.9196
+    },
+    "864": {
+        "ID": 3842,
+        "NAME": "Bushwick Ave & Dekalb Ave",
+        "longitude": -73.92825
+    },
+    "865": {
+        "ID": 3843,
+        "NAME": "Myrtle Ave & Grove St",
+        "longitude": -73.91516
+    },
+    "866": {
+        "ID": 3844,
+        "NAME": "Myrtle Ave & Linden St",
+        "longitude": -73.91337
+    },
+    "867": {
+        "ID": 3845,
+        "NAME": "Irving Ave & Harman St",
+        "longitude": -73.9179
+    },
+    "868": {
+        "ID": 3846,
+        "NAME": "Central Ave & Himrod St",
+        "longitude": -73.92302
+    },
+    "869": {
+        "ID": 3847,
+        "NAME": "Cedar St & Evergreen Ave",
+        "longitude": -73.92806999999999
+    },
+    "870": {
+        "ID": 3848,
+        "NAME": "Suydam St & Broadway",
+        "longitude": -73.93223
+    },
+    "871": {
+        "ID": 3849,
+        "NAME": "Suydam St & St. Nicholas Ave",
+        "longitude": -73.91945
+    },
+    "872": {
+        "ID": 3850,
+        "NAME": "Jefferson St & Cypress Ave",
+        "longitude": -73.92156999999999
+    },
+    "873": {
+        "ID": 3851,
+        "NAME": "Metropolitan Ave & Stewart Ave",
+        "longitude": -73.92793
+    },
+    "874": {
+        "ID": 3852,
+        "NAME": "Stewart Ave & Johnson Ave",
+        "longitude": -73.92586999999999
+    },
+    "875": {
+        "ID": 3853,
+        "NAME": "Harrison Pl & Porter Ave",
+        "longitude": -73.92851
+    },
+    "876": {
+        "ID": 3854,
+        "NAME": "Morgan Ave & Maspeth Ave",
+        "longitude": -73.93637
+    },
+    "877": {
+        "ID": 3855,
+        "NAME": "Frost St & Debevoise Ave",
+        "longitude": -73.93948
+    },
+    "878": {
+        "ID": 3856,
+        "NAME": "Kingsland Ave & Nassau Ave",
+        "longitude": -73.94173
+    },
+    "879": {
+        "ID": 3857,
+        "NAME": "Engert Ave & McGuinness Blvd",
+        "longitude": -73.94546
+    },
+    "880": {
+        "ID": 3858,
+        "NAME": "Kent St & McGuinness Blvd",
+        "longitude": -73.95161
+    },
+    "881": {
+        "ID": 3859,
+        "NAME": "Lorimer St & Calyer St",
+        "longitude": -73.95414
+    },
+    "882": {
+        "ID": 3860,
+        "NAME": "Wilson Ave & Troutman St",
+        "longitude": -73.92754000000001
+    },
+    "883": {
+        "ID": 3861,
+        "NAME": "Menahan St & Wyckoff Ave",
+        "longitude": -73.91422
+    },
+    "884": {
+        "ID": 3862,
+        "NAME": "Linden St & Knickerbocker Ave",
+        "longitude": -73.91566
+    },
+    "885": {
+        "ID": 3863,
+        "NAME": "Central Ave & Woodbine St",
+        "longitude": -73.91605
+    },
+    "886": {
+        "ID": 3864,
+        "NAME": "Central Ave & Covert St",
+        "longitude": -73.90951
+    },
+    "887": {
+        "ID": 3865,
+        "NAME": "Knickerbocker Ave & Cooper St",
+        "longitude": -73.90448
+    },
+    "888": {
+        "ID": 3866,
+        "NAME": "Wilson Ave & Moffat St",
+        "longitude": -73.90505999999999
+    },
+    "889": {
+        "ID": 3867,
+        "NAME": "Somers St & Broadway",
+        "longitude": -73.90474
+    },
+    "890": {
+        "ID": 3868,
+        "NAME": "Knickerbocker Ave & Halsey St",
+        "longitude": -73.90824
+    },
+    "891": {
+        "ID": 3869,
+        "NAME": "Van Buren St & Broadway",
+        "longitude": -73.92617
+    },
+    "892": {
+        "ID": 3870,
+        "NAME": "Melrose St & Broadway",
+        "longitude": -73.935877
+    },
+    "893": {
+        "ID": 3871,
+        "NAME": "Bushwick Ave & Furman Ave",
+        "longitude": -73.90623000000001
+    },
+    "894": {
+        "ID": 3872,
+        "NAME": "Hancock St & Wyckoff Ave",
+        "longitude": -73.90674
+    },
+    "895": {
+        "ID": 3873,
+        "NAME": "Madison St & Cypress Ave",
+        "longitude": -73.90742
+    },
+    "896": {
+        "ID": 3874,
+        "NAME": "Menahan St & Seneca Ave",
+        "longitude": -73.91054
+    },
+    "897": {
+        "ID": 3875,
+        "NAME": "Stephen St & Seneca Ave",
+        "longitude": -73.9007
+    },
+    "898": {
+        "ID": 3876,
+        "NAME": "Forest Ave & Summerfield St",
+        "longitude": -73.89795
+    },
+    "899": {
+        "ID": 3877,
+        "NAME": "Madison St & Forest Ave",
+        "longitude": -73.90245
+    },
+    "900": {
+        "ID": 3878,
+        "NAME": "Cypress Ave & George St",
+        "longitude": -73.90271
+    },
+    "901": {
+        "ID": 3879,
+        "NAME": "Broadway & Madison St",
+        "longitude": -73.91966
+    },
+    "902": {
+        "ID": 3880,
+        "NAME": "Willoughby Ave & Onderdonk Ave",
+        "longitude": -73.91727
+    },
+    "903": {
+        "ID": 3881,
+        "NAME": "12 Ave & W 125 St",
+        "longitude": -73.96040500000001
+    },
+    "904": {
+        "ID": 3882,
+        "NAME": "Norman St & Wyckoff Ave",
+        "longitude": -73.90311
+    },
+    "905": {
+        "ID": 3883,
+        "NAME": "Harman St & Seneca Ave",
+        "longitude": -73.91292
+    },
+    "906": {
+        "ID": 3884,
+        "NAME": "Centre St & Seneca Ave",
+        "longitude": -73.9022
+    },
+    "907": {
+        "ID": 3885,
+        "NAME": "Onderdonk Ave & Gates Ave",
+        "longitude": -73.90737
+    },
+    "908": {
+        "ID": 3886,
+        "NAME": "Menahan St & Onderdonk Ave",
+        "longitude": -73.9096
+    },
+    "909": {
+        "ID": 3887,
+        "NAME": "Flushing Ave & Woodward Ave",
+        "longitude": -73.91873000000001
+    },
+    "910": {
+        "ID": 3888,
+        "NAME": "Woodward Ave & Harman St",
+        "longitude": -73.91091999999999
+    },
+    "911": {
+        "ID": 3890,
+        "NAME": "Grove St & Broadway",
+        "longitude": -73.923511
+    },
+    "912": {
+        "ID": 3891,
+        "NAME": "Irving Ave & Palmetto St",
+        "longitude": -73.9127
+    },
+    "913": {
+        "ID": 3892,
+        "NAME": "38 Ave & 29 St",
+        "longitude": -73.93366999999999
+    },
+    "914": {
+        "ID": 3893,
+        "NAME": "Rockaway Ave & Bainbridge St",
+        "longitude": -73.91166642308234
+    },
+    "915": {
+        "ID": 3895,
+        "NAME": "Cypress Ave & Palmetto St",
+        "longitude": -73.90876293182373
+    },
+    "916": {
+        "ID": 3896,
+        "NAME": "Madison St & Seneca Ave",
+        "longitude": -73.90625
+    },
+    "917": {
+        "ID": 3897,
+        "NAME": "Onderdonk Ave & Dekalb Ave",
+        "longitude": -73.91497
+    },
+    "918": {
+        "ID": 3898,
+        "NAME": "E 63 St & 3 Ave",
+        "longitude": -73.9646
+    },
+    "919": {
+        "ID": 3899,
+        "NAME": "Manhattan Av & Leonard St",
+        "longitude": -73.94844
+    },
+    "920": {
+        "ID": 3900,
+        "NAME": "Morgan Ave & Lombardy St",
+        "longitude": -73.93889
+    },
+    "921": {
+        "ID": 3901,
+        "NAME": "Stanhope St & Fairview Ave",
+        "longitude": -73.91116
+    },
+    "922": {
+        "ID": 3902,
+        "NAME": "Fairview Ave & Linden St",
+        "longitude": -73.90632
+    },
+    "923": {
+        "ID": 3903,
+        "NAME": "Jefferson Ave & Evergreen Ave",
+        "longitude": -73.91458
+    },
+    "924": {
+        "ID": 3905,
+        "NAME": "4 Ave & E 12 St",
+        "longitude": -73.99011
+    },
+    "925": {
+        "ID": 3906,
+        "NAME": "West St & Liberty St",
+        "longitude": -74.014847
+    },
+    "926": {
+        "ID": 3907,
+        "NAME": "Central Ave & Melrose St",
+        "longitude": -73.93039
+    },
+    "927": {
+        "ID": 3909,
+        "NAME": "Madison St & Woodward Ave",
+        "longitude": -73.90408000000001
+    },
+    "928": {
+        "ID": 3910,
+        "NAME": "Greene Ave & Grandview Ave",
+        "longitude": -73.90785600000001
+    },
+    "929": {
+        "ID": 3911,
+        "NAME": "Wyckoff St & Nevins St",
+        "longitude": -73.984275
+    },
+    "930": {
+        "ID": 3913,
+        "NAME": "Sands St Gate",
+        "longitude": -73.979827
+    },
+    "931": {
+        "ID": 3914,
+        "NAME": "West End Ave & W 78 St",
+        "longitude": -73.981687
+    },
+    "932": {
+        "ID": 3916,
+        "NAME": "Pearl St & Peck Slip",
+        "longitude": -74.002751
+    },
+    "933": {
+        "ID": 3917,
+        "NAME": "Willoughby St & Ashland Pl",
+        "longitude": -73.97877
+    },
+    "934": {
+        "ID": 3918,
+        "NAME": "Avenue D & E 8 St",
+        "longitude": -73.975767
+    },
+    "935": {
+        "ID": 3919,
+        "NAME": "Wall St & South St",
+        "longitude": -74.00636999999999
+    },
+    "936": {
+        "ID": 3920,
+        "NAME": "E 132 St & Madison Ave",
+        "longitude": -73.93719499999999
+    },
+    "937": {
+        "ID": 3921,
+        "NAME": "Willis Ave & Bruckner Blvd",
+        "longitude": -73.925177
+    },
+    "938": {
+        "ID": 3923,
+        "NAME": "Lincoln Ave & E 134 St",
+        "longitude": -73.928803
+    },
+    "939": {
+        "ID": 3924,
+        "NAME": "Lincoln Ave & E 138 St",
+        "longitude": -73.927311
+    },
+    "940": {
+        "ID": 3926,
+        "NAME": "5 Ave & W 131 St",
+        "longitude": -73.93973000000001
+    },
+    "941": {
+        "ID": 3929,
+        "NAME": "Willis Ave & E 141 St",
+        "longitude": -73.92160600000001
+    },
+    "942": {
+        "ID": 3931,
+        "NAME": "Morris Ave & E 142 St",
+        "longitude": -73.924963
+    },
+    "943": {
+        "ID": 3932,
+        "NAME": "Grand Concourse & E 144 St",
+        "longitude": -73.927987
+    },
+    "944": {
+        "ID": 3935,
+        "NAME": "Amsterdam Ave & W 131 St",
+        "longitude": -73.954295
+    },
+    "945": {
+        "ID": 3937,
+        "NAME": "E 135 St & St Ann's Ave",
+        "longitude": -73.91888900000001
+    },
+    "946": {
+        "ID": 3938,
+        "NAME": "E 133 St & Cypress Pl",
+        "longitude": -73.9174
+    },
+    "947": {
+        "ID": 3939,
+        "NAME": "Willow Ave & E 133 St",
+        "longitude": -73.913863
+    },
+    "948": {
+        "ID": 3940,
+        "NAME": "E 134 St & Walnut Ave",
+        "longitude": -73.911034
+    },
+    "949": {
+        "ID": 3941,
+        "NAME": "Walnut Ave & E 136 St",
+        "longitude": -73.909513
+    },
+    "950": {
+        "ID": 3944,
+        "NAME": "Convent Ave & W 135 St",
+        "longitude": -73.950988
+    },
+    "951": {
+        "ID": 3945,
+        "NAME": "Amsterdam Ave & W 136 St",
+        "longitude": -73.951819
+    },
+    "952": {
+        "ID": 3946,
+        "NAME": "St Nicholas Ave & W 137 St",
+        "longitude": -73.947568
+    },
+    "953": {
+        "ID": 3947,
+        "NAME": "E 138 St & Willow Ave",
+        "longitude": -73.91154499999999
+    },
+    "954": {
+        "ID": 3950,
+        "NAME": "Brook Ave & E 141 St",
+        "longitude": -73.917875
+    },
+    "955": {
+        "ID": 3955,
+        "NAME": "St Mary's St & Jackson Ave",
+        "longitude": -73.91081
+    },
+    "956": {
+        "ID": 3956,
+        "NAME": "St. Ann's Ave & E 144 St",
+        "longitude": -73.914932
+    },
+    "957": {
+        "ID": 3957,
+        "NAME": "E 144 St & Brook Ave",
+        "longitude": -73.917037
+    },
+    "958": {
+        "ID": 3958,
+        "NAME": "Willis Ave & E 143 St",
+        "longitude": -73.92036999999999
+    },
+    "959": {
+        "ID": 3961,
+        "NAME": "Morris Ave & E 153 St",
+        "longitude": -73.92141099999999
+    },
+    "960": {
+        "ID": 3986,
+        "NAME": "E 149 St & Morris Ave",
+        "longitude": -73.922962
+    },
+    "961": {
+        "ID": 3988,
+        "NAME": "E 128 St & 3 Ave",
+        "longitude": -73.934077
+    },
+    "962": {
+        "ID": 3989,
+        "NAME": "Willis Ave & E 137 St",
+        "longitude": -73.923604
+    },
+    "963": {
+        "ID": 3992,
+        "NAME": "W 169 St & Fort Washington Ave",
+        "longitude": -73.9421253
+    },
+    "964": {
+        "ID": 3993,
+        "NAME": "W 59 St & West End Ave",
+        "longitude": -73.990625
+    },
+    "965": {
+        "ID": 3994,
+        "NAME": "2 Ave & E 125 St",
+        "longitude": -73.933509
+    },
+    "966": {
+        "ID": 3995,
+        "NAME": "5 Ave & E 135 St",
+        "longitude": -73.937838
+    },
+    "967": {
+        "ID": 3996,
+        "NAME": "Lexington Ave & E 128 St",
+        "longitude": -73.93608499999999
+    },
+    "968": {
+        "ID": 3998,
+        "NAME": "W 135 St & Lenox Terrace Pl",
+        "longitude": -73.939336
+    },
+    "969": {
+        "ID": 4016,
+        "NAME": "Adam Clayton Powell Blvd & W 130 St",
+        "longitude": -73.946168
+    },
+    "970": {
+        "ID": 4017,
+        "NAME": "E 138 St & 5 Av",
+        "longitude": -73.936153
+    },
+    "971": {
+        "ID": 4019,
+        "NAME": "St. Ann's Av & Bruckner Blvd",
+        "longitude": -73.919763
+    },
+    "972": {
+        "ID": 4021,
+        "NAME": "E 138 St & Grand Concourse",
+        "longitude": -73.930605
+    }
+}
